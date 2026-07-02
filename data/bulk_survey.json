@@ -1,0 +1,106 @@
+[
+  {
+    "store_id": 3,
+    "bulk_available": "No",
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 4,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 7,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 8,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 9,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 11,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 13,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 14,
+    "bulk_available": "No",
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 15,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 18,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 19,
+    "bulk_available": "No",
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 20,
+    "bulk_available": "No",
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 21,
+    "bulk_available": null,
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  }
+]

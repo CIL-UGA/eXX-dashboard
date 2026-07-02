@@ -1,0 +1,106 @@
+[
+  {
+    "store_id": 3,
+    "common_bag_type": "Paper",
+    "common_bag_cost": "0.39",
+    "reusable_offered": "Yes",
+    "reusable_material": "Paper",
+    "reusable_cost": "0.99"
+  },
+  {
+    "store_id": 4,
+    "common_bag_type": "Paper",
+    "common_bag_cost": "0.50",
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 7,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": "1.00",
+    "reusable_offered": "Yes",
+    "reusable_material": "Plastic Film",
+    "reusable_cost": "2.00"
+  },
+  {
+    "store_id": 8,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": "60.00",
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 9,
+    "common_bag_type": "Paper",
+    "common_bag_cost": "0.00",
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 11,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": null,
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 13,
+    "common_bag_type": "Paper",
+    "common_bag_cost": "0.39",
+    "reusable_offered": "Yes",
+    "reusable_material": "Plastic Fabric",
+    "reusable_cost": "0.99"
+  },
+  {
+    "store_id": 14,
+    "common_bag_type": "Paper",
+    "common_bag_cost": "0.00",
+    "reusable_offered": "Yes",
+    "reusable_material": "Plastic Fabric",
+    "reusable_cost": "5.90"
+  },
+  {
+    "store_id": 15,
+    "common_bag_type": null,
+    "common_bag_cost": null,
+    "reusable_offered": null,
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 18,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": "0.00",
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 19,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": "0.00",
+    "reusable_offered": "Yes",
+    "reusable_material": "Paper",
+    "reusable_cost": "0.00"
+  },
+  {
+    "store_id": 20,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": "0.00",
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  },
+  {
+    "store_id": 21,
+    "common_bag_type": "Plastic Film",
+    "common_bag_cost": "0.00",
+    "reusable_offered": "No",
+    "reusable_material": null,
+    "reusable_cost": null
+  }
+]

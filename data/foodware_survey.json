@@ -1,0 +1,672 @@
+[
+  {
+    "foodware_id": 1,
+    "vendor_id": 1,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Huhtamaki",
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 2,
+    "vendor_id": 1,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 3,
+    "vendor_id": 1,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 4,
+    "vendor_id": 1,
+    "item_category": "Food packaging",
+    "material_type": "Paper",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Wild bean cafe",
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 5,
+    "vendor_id": 3,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 6,
+    "vendor_id": 3,
+    "item_category": "Straws",
+    "material_type": "Compostable plastic - unknown",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 7,
+    "vendor_id": 3,
+    "item_category": "Food packaging",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 8,
+    "vendor_id": 3,
+    "item_category": "Utensils",
+    "material_type": "Compostable plastic - unknown",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 9,
+    "vendor_id": 4,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 10,
+    "vendor_id": 4,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 11,
+    "vendor_id": 5,
+    "item_category": "Food packaging",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Unknown",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 12,
+    "vendor_id": 5,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Unknown",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 13,
+    "vendor_id": 4,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 14,
+    "vendor_id": 4,
+    "item_category": "Food packaging",
+    "material_type": "Paper",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "DETPAK",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 15,
+    "vendor_id": 7,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": null
+  },
+  {
+    "foodware_id": 16,
+    "vendor_id": 7,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": null
+  },
+  {
+    "foodware_id": 17,
+    "vendor_id": 7,
+    "item_category": "Food packaging",
+    "material_type": "Paperboard",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": null
+  },
+  {
+    "foodware_id": 18,
+    "vendor_id": 7,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": null
+  },
+  {
+    "foodware_id": 19,
+    "vendor_id": 8,
+    "item_category": "Food packaging",
+    "material_type": "Compostable plastic - unknown",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Luv a pie foods",
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 20,
+    "vendor_id": 8,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Bio pac",
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 21,
+    "vendor_id": 9,
+    "item_category": "Cold cups",
+    "material_type": "Compostable plastic - unknown",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": "Hummingbird",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 22,
+    "vendor_id": 9,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 23,
+    "vendor_id": 9,
+    "item_category": "Food packaging",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Bid Food",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 24,
+    "vendor_id": 9,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "BioPac",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 25,
+    "vendor_id": 10,
+    "item_category": "Cold cups",
+    "material_type": "Compostable plastic - PHA",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": "Bio Pac",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 26,
+    "vendor_id": 10,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 27,
+    "vendor_id": 10,
+    "item_category": "Food packaging",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 28,
+    "vendor_id": 10,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": "Happy Frog",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 29,
+    "vendor_id": 11,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 30,
+    "vendor_id": 11,
+    "item_category": "Food packaging",
+    "material_type": "Paperboard",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 31,
+    "vendor_id": 11,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 32,
+    "vendor_id": 12,
+    "item_category": "Cold cups",
+    "material_type": "Compostable plastic - PLA",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": "Bio pac",
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 33,
+    "vendor_id": 12,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 34,
+    "vendor_id": 12,
+    "item_category": "Food packaging",
+    "material_type": "Paper",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": "Unknown",
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 35,
+    "vendor_id": 12,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "Yes",
+    "certification": null,
+    "brand_name": "Bio pac",
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 36,
+    "vendor_id": 13,
+    "item_category": "Food packaging",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 37,
+    "vendor_id": 13,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Happy Frog",
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 38,
+    "vendor_id": 14,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 39,
+    "vendor_id": 14,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 40,
+    "vendor_id": 14,
+    "item_category": "Food packaging",
+    "material_type": "Paper",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 41,
+    "vendor_id": 14,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 42,
+    "vendor_id": 15,
+    "item_category": "Cold cups",
+    "material_type": "Paperboard",
+    "has_compost_cert": "Yes",
+    "certification": "{'Compost_Manufacturing_Alliance', 'BPI_Commercially_Compostable'}",
+    "brand_name": "Biopak",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 43,
+    "vendor_id": 15,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 44,
+    "vendor_id": 15,
+    "item_category": "Food packaging",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Biopak",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 45,
+    "vendor_id": 15,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Biopak",
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 46,
+    "vendor_id": 16,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 47,
+    "vendor_id": 16,
+    "item_category": "Straws",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 48,
+    "vendor_id": 16,
+    "item_category": "Food packaging",
+    "material_type": "Paper",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": "Unknown",
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 49,
+    "vendor_id": 16,
+    "item_category": "Utensils",
+    "material_type": "Other",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 50,
+    "vendor_id": 17,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - PP",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 51,
+    "vendor_id": 17,
+    "item_category": "Utensils",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 52,
+    "vendor_id": 18,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - PP",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 53,
+    "vendor_id": 18,
+    "item_category": "Straws",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 54,
+    "vendor_id": 18,
+    "item_category": "Food packaging",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 55,
+    "vendor_id": 18,
+    "item_category": "Utensils",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No in house dining"
+  },
+  {
+    "foodware_id": 56,
+    "vendor_id": 19,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 57,
+    "vendor_id": 19,
+    "item_category": "Straws",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 58,
+    "vendor_id": 19,
+    "item_category": "Food packaging",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 59,
+    "vendor_id": 19,
+    "item_category": "Utensils",
+    "material_type": "Hard plastic - PET",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 60,
+    "vendor_id": 20,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 61,
+    "vendor_id": 20,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 62,
+    "vendor_id": 20,
+    "item_category": "Food packaging",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 63,
+    "vendor_id": 20,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 64,
+    "vendor_id": 21,
+    "item_category": "Cold cups",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 65,
+    "vendor_id": 21,
+    "item_category": "Straws",
+    "material_type": "Paperboard",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "No"
+  },
+  {
+    "foodware_id": 66,
+    "vendor_id": 21,
+    "item_category": "Food packaging",
+    "material_type": "Hard plastic - unknown",
+    "has_compost_cert": null,
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  },
+  {
+    "foodware_id": 67,
+    "vendor_id": 21,
+    "item_category": "Utensils",
+    "material_type": "Wood/Natural materials",
+    "has_compost_cert": "No",
+    "certification": null,
+    "brand_name": null,
+    "reusable_offered": "Yes"
+  }
+]

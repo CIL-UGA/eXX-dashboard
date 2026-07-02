@@ -1,0 +1,1392 @@
+[
+  {
+    "packaging_id": 1,
+    "store_id": 3,
+    "product_category": "Cooking Oil",
+    "material_type": "Glass",
+    "proportion_pct": "45.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 2,
+    "store_id": 3,
+    "product_category": "Cooking Oil",
+    "material_type": "Hard plastic",
+    "proportion_pct": "45.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 3,
+    "store_id": 3,
+    "product_category": "Cooking Oil",
+    "material_type": "Metal",
+    "proportion_pct": "10.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 4,
+    "store_id": 3,
+    "product_category": "Rice",
+    "material_type": "Hard plastic",
+    "proportion_pct": "20.00",
+    "size_min": "125.00",
+    "size_max": "1000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 5,
+    "store_id": 3,
+    "product_category": "Rice",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "80.00",
+    "size_min": "125.00",
+    "size_max": "1000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 6,
+    "store_id": 3,
+    "product_category": "Laundry Detergent",
+    "material_type": "Hard plastic",
+    "proportion_pct": "50.00",
+    "size_min": "200.00",
+    "size_max": "1180.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 7,
+    "store_id": 3,
+    "product_category": "Laundry Detergent",
+    "material_type": "Paperboard",
+    "proportion_pct": "30.00",
+    "size_min": "200.00",
+    "size_max": "1180.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 8,
+    "store_id": 3,
+    "product_category": "Laundry Detergent",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "15.00",
+    "size_min": "200.00",
+    "size_max": "1180.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 9,
+    "store_id": 3,
+    "product_category": "Laundry Detergent",
+    "material_type": "Other",
+    "proportion_pct": "5.00",
+    "size_min": "200.00",
+    "size_max": "1180.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 10,
+    "store_id": 3,
+    "product_category": "Shampoo",
+    "material_type": "Hard plastic",
+    "proportion_pct": "85.00",
+    "size_min": "200.00",
+    "size_max": "375.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 11,
+    "store_id": 3,
+    "product_category": "Shampoo",
+    "material_type": "Metal",
+    "proportion_pct": "15.00",
+    "size_min": "200.00",
+    "size_max": "375.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 12,
+    "store_id": 3,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "30.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 13,
+    "store_id": 3,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "5.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 14,
+    "store_id": 3,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "10.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 15,
+    "store_id": 3,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "55.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 16,
+    "store_id": 3,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "20.00",
+    "size_max": "120.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 17,
+    "store_id": 3,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "5.00",
+    "size_min": "20.00",
+    "size_max": "120.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 18,
+    "store_id": 3,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "5.00",
+    "size_min": "20.00",
+    "size_max": "120.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 19,
+    "store_id": 3,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "25.00",
+    "size_max": "53.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 20,
+    "store_id": 3,
+    "product_category": "Chips",
+    "material_type": "Multimaterial paperboard canister",
+    "proportion_pct": "5.00",
+    "size_min": "25.00",
+    "size_max": "53.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 21,
+    "store_id": 4,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "50.00",
+    "size_min": "250.00",
+    "size_max": "2250.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 22,
+    "store_id": 4,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "5.00",
+    "size_min": "250.00",
+    "size_max": "2250.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 23,
+    "store_id": 4,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "45.00",
+    "size_min": "250.00",
+    "size_max": "2250.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 24,
+    "store_id": 4,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "45.00",
+    "size_max": "225.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 25,
+    "store_id": 4,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "10.00",
+    "size_min": "45.00",
+    "size_max": "225.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 26,
+    "store_id": 4,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "45.00",
+    "size_max": "140.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 27,
+    "store_id": 4,
+    "product_category": "Chips",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "10.00",
+    "size_min": "45.00",
+    "size_max": "140.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 28,
+    "store_id": 7,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "75.00",
+    "size_min": "25.00",
+    "size_max": "520.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 29,
+    "store_id": 7,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "5.00",
+    "size_min": "25.00",
+    "size_max": "520.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 30,
+    "store_id": 7,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "20.00",
+    "size_min": "25.00",
+    "size_max": "520.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 31,
+    "store_id": 7,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "40.00",
+    "size_max": "300.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 32,
+    "store_id": 7,
+    "product_category": "Chips",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "10.00",
+    "size_min": "40.00",
+    "size_max": "300.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 33,
+    "store_id": 7,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "25.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 34,
+    "store_id": 7,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "5.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 35,
+    "store_id": 7,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "10.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 36,
+    "store_id": 7,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "60.00",
+    "size_min": "250.00",
+    "size_max": "750.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 37,
+    "store_id": 8,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "30.00",
+    "size_min": "300.00",
+    "size_max": "800.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 38,
+    "store_id": 8,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "10.00",
+    "size_min": "300.00",
+    "size_max": "800.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 39,
+    "store_id": 8,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "30.00",
+    "size_min": "300.00",
+    "size_max": "800.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 40,
+    "store_id": 8,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "30.00",
+    "size_min": "300.00",
+    "size_max": "800.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 41,
+    "store_id": 8,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "70.00",
+    "size_min": "4.50",
+    "size_max": "230.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 42,
+    "store_id": 8,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "15.00",
+    "size_min": "4.50",
+    "size_max": "230.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 43,
+    "store_id": 8,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "15.00",
+    "size_min": "4.50",
+    "size_max": "230.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 44,
+    "store_id": 8,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "53.00",
+    "size_max": "140.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 45,
+    "store_id": 9,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "15.00",
+    "size_max": "120.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 46,
+    "store_id": 9,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "5.00",
+    "size_min": "15.00",
+    "size_max": "120.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 47,
+    "store_id": 9,
+    "product_category": "Candy",
+    "material_type": "Other",
+    "proportion_pct": "5.00",
+    "size_min": "15.00",
+    "size_max": "120.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 48,
+    "store_id": 13,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "20.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 49,
+    "store_id": 13,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "5.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 50,
+    "store_id": 13,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "10.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 51,
+    "store_id": 13,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "65.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 52,
+    "store_id": 13,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "75.00",
+    "size_min": "35.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 53,
+    "store_id": 13,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "10.00",
+    "size_min": "35.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 54,
+    "store_id": 13,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "15.00",
+    "size_min": "35.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 55,
+    "store_id": 13,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "85.00",
+    "size_min": "40.00",
+    "size_max": "150.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 56,
+    "store_id": 13,
+    "product_category": "Chips",
+    "material_type": "Multimaterial paperboard canister",
+    "proportion_pct": "15.00",
+    "size_min": "40.00",
+    "size_max": "150.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 57,
+    "store_id": 13,
+    "product_category": "Cooking Oil",
+    "material_type": "Glass",
+    "proportion_pct": "55.00",
+    "size_min": "132.00",
+    "size_max": "3000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 58,
+    "store_id": 13,
+    "product_category": "Cooking Oil",
+    "material_type": "Hard plastic",
+    "proportion_pct": "40.00",
+    "size_min": "132.00",
+    "size_max": "3000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 59,
+    "store_id": 13,
+    "product_category": "Cooking Oil",
+    "material_type": "Metal",
+    "proportion_pct": "5.00",
+    "size_min": "132.00",
+    "size_max": "3000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 60,
+    "store_id": 13,
+    "product_category": "Rice",
+    "material_type": "Hard plastic",
+    "proportion_pct": "10.00",
+    "size_min": "200.00",
+    "size_max": "5000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 61,
+    "store_id": 13,
+    "product_category": "Rice",
+    "material_type": "Paperboard",
+    "proportion_pct": "10.00",
+    "size_min": "200.00",
+    "size_max": "5000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 62,
+    "store_id": 13,
+    "product_category": "Rice",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "80.00",
+    "size_min": "200.00",
+    "size_max": "5000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 63,
+    "store_id": 13,
+    "product_category": "Laundry Detergent",
+    "material_type": "Hard plastic",
+    "proportion_pct": "40.00",
+    "size_min": "120.00",
+    "size_max": "4000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 64,
+    "store_id": 13,
+    "product_category": "Laundry Detergent",
+    "material_type": "Paperboard",
+    "proportion_pct": "55.00",
+    "size_min": "120.00",
+    "size_max": "4000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 65,
+    "store_id": 13,
+    "product_category": "Laundry Detergent",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "5.00",
+    "size_min": "120.00",
+    "size_max": "4000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 66,
+    "store_id": 13,
+    "product_category": "Shampoo",
+    "material_type": "Hard plastic",
+    "proportion_pct": "95.00",
+    "size_min": "100.00",
+    "size_max": "650.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 67,
+    "store_id": 13,
+    "product_category": "Shampoo",
+    "material_type": "Paperboard",
+    "proportion_pct": "5.00",
+    "size_min": "100.00",
+    "size_max": "650.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 68,
+    "store_id": 14,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "35.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 69,
+    "store_id": 14,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "5.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 70,
+    "store_id": 14,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "30.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 71,
+    "store_id": 14,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "40.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 72,
+    "store_id": 14,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "60.00",
+    "size_min": "15.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 73,
+    "store_id": 14,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "10.00",
+    "size_min": "15.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 74,
+    "store_id": 14,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "30.00",
+    "size_min": "15.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 75,
+    "store_id": 14,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "85.00",
+    "size_min": "35.00",
+    "size_max": "150.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 76,
+    "store_id": 14,
+    "product_category": "Chips",
+    "material_type": "Multimaterial paperboard canister",
+    "proportion_pct": "65.00",
+    "size_min": "35.00",
+    "size_max": "150.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 77,
+    "store_id": 14,
+    "product_category": "Cooking Oil",
+    "material_type": "Glass",
+    "proportion_pct": "40.00",
+    "size_min": "200.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 78,
+    "store_id": 14,
+    "product_category": "Cooking Oil",
+    "material_type": "Hard plastic",
+    "proportion_pct": "50.00",
+    "size_min": "200.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 79,
+    "store_id": 14,
+    "product_category": "Cooking Oil",
+    "material_type": "Metal",
+    "proportion_pct": "10.00",
+    "size_min": "200.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 80,
+    "store_id": 14,
+    "product_category": "Rice",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "100.00",
+    "size_min": "1000.00",
+    "size_max": "1000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 81,
+    "store_id": 14,
+    "product_category": "Laundry Detergent",
+    "material_type": "Hard plastic",
+    "proportion_pct": "35.00",
+    "size_min": "500.00",
+    "size_max": "1000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 82,
+    "store_id": 14,
+    "product_category": "Laundry Detergent",
+    "material_type": "Paperboard",
+    "proportion_pct": "65.00",
+    "size_min": "500.00",
+    "size_max": "1000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 83,
+    "store_id": 14,
+    "product_category": "Shampoo",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "350.00",
+    "size_max": "400.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 84,
+    "store_id": 15,
+    "product_category": "Cooking Oil",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "500.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 85,
+    "store_id": 15,
+    "product_category": "Rice",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "100.00",
+    "size_min": "1000.00",
+    "size_max": "1000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 86,
+    "store_id": 15,
+    "product_category": "Laundry Detergent",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "500.00",
+    "size_max": "1000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 87,
+    "store_id": 15,
+    "product_category": "Shampoo",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "180.00",
+    "size_max": "443.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 88,
+    "store_id": 15,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "40.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 89,
+    "store_id": 15,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "15.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 90,
+    "store_id": 15,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "10.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 91,
+    "store_id": 15,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "35.00",
+    "size_min": "250.00",
+    "size_max": "1500.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 92,
+    "store_id": 15,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "2.00",
+    "size_max": "50.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 93,
+    "store_id": 15,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "10.00",
+    "size_min": "2.00",
+    "size_max": "50.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 94,
+    "store_id": 15,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "100.00",
+    "size_min": "60.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 95,
+    "store_id": 18,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "35.00",
+    "size_min": "100.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 96,
+    "store_id": 18,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "10.00",
+    "size_min": "100.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 97,
+    "store_id": 18,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "10.00",
+    "size_min": "100.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 98,
+    "store_id": 18,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "40.00",
+    "size_min": "100.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 99,
+    "store_id": 18,
+    "product_category": "Beverages",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "5.00",
+    "size_min": "100.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 100,
+    "store_id": 18,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "90.00",
+    "size_min": "3.00",
+    "size_max": "560.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 101,
+    "store_id": 18,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "5.00",
+    "size_min": "3.00",
+    "size_max": "560.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 102,
+    "store_id": 18,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "5.00",
+    "size_min": "3.00",
+    "size_max": "560.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 103,
+    "store_id": 18,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "95.00",
+    "size_min": "14.00",
+    "size_max": "200.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 104,
+    "store_id": 18,
+    "product_category": "Chips",
+    "material_type": "Multimaterial paperboard canister",
+    "proportion_pct": "5.00",
+    "size_min": "14.00",
+    "size_max": "200.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 105,
+    "store_id": 19,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "25.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 106,
+    "store_id": 19,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "25.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 107,
+    "store_id": 19,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "5.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 108,
+    "store_id": 19,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "45.00",
+    "size_min": "250.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 109,
+    "store_id": 19,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "85.00",
+    "size_min": "5.00",
+    "size_max": "450.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 110,
+    "store_id": 19,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "10.00",
+    "size_min": "5.00",
+    "size_max": "450.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 111,
+    "store_id": 19,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "5.00",
+    "size_min": "5.00",
+    "size_max": "450.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 112,
+    "store_id": 19,
+    "product_category": "Cooking Oil",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "500.00",
+    "size_max": "5000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 113,
+    "store_id": 19,
+    "product_category": "Laundry Detergent",
+    "material_type": "Hard plastic",
+    "proportion_pct": "15.00",
+    "size_min": "245.00",
+    "size_max": "1892.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 114,
+    "store_id": 19,
+    "product_category": "Laundry Detergent",
+    "material_type": "Paperboard",
+    "proportion_pct": "15.00",
+    "size_min": "245.00",
+    "size_max": "1892.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 115,
+    "store_id": 19,
+    "product_category": "Laundry Detergent",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "70.00",
+    "size_min": "245.00",
+    "size_max": "1892.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 116,
+    "store_id": 19,
+    "product_category": "Shampoo",
+    "material_type": "Hard plastic",
+    "proportion_pct": "95.00",
+    "size_min": "180.00",
+    "size_max": "780.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 117,
+    "store_id": 19,
+    "product_category": "Shampoo",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "5.00",
+    "size_min": "180.00",
+    "size_max": "780.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 118,
+    "store_id": 20,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "45.00",
+    "size_min": "235.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 119,
+    "store_id": 20,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "5.00",
+    "size_min": "235.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 120,
+    "store_id": 20,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "5.00",
+    "size_min": "235.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 121,
+    "store_id": 20,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "45.00",
+    "size_min": "235.00",
+    "size_max": "2000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 122,
+    "store_id": 20,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "95.00",
+    "size_min": "5.00",
+    "size_max": "900.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 123,
+    "store_id": 20,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "5.00",
+    "size_min": "5.00",
+    "size_max": "900.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 124,
+    "store_id": 20,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "95.00",
+    "size_min": "14.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 125,
+    "store_id": 20,
+    "product_category": "Chips",
+    "material_type": "Multimaterial paperboard canister",
+    "proportion_pct": "5.00",
+    "size_min": "14.00",
+    "size_max": "250.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 126,
+    "store_id": 20,
+    "product_category": "Cooking Oil",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "500.00",
+    "size_max": "5000.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 127,
+    "store_id": 20,
+    "product_category": "Rice",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "100.00",
+    "size_min": "500.00",
+    "size_max": "1000.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 128,
+    "store_id": 20,
+    "product_category": "Laundry Detergent",
+    "material_type": "Hard plastic",
+    "proportion_pct": "25.00",
+    "size_min": "254.00",
+    "size_max": "1892.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 129,
+    "store_id": 20,
+    "product_category": "Laundry Detergent",
+    "material_type": "Paperboard",
+    "proportion_pct": "25.00",
+    "size_min": "254.00",
+    "size_max": "1892.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 130,
+    "store_id": 20,
+    "product_category": "Laundry Detergent",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "50.00",
+    "size_min": "254.00",
+    "size_max": "1892.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 131,
+    "store_id": 20,
+    "product_category": "Shampoo",
+    "material_type": "Hard plastic",
+    "proportion_pct": "100.00",
+    "size_min": "180.00",
+    "size_max": "780.00",
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 132,
+    "store_id": 21,
+    "product_category": "Beverages",
+    "material_type": "Aluminum",
+    "proportion_pct": "35.00",
+    "size_min": "320.00",
+    "size_max": null,
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 133,
+    "store_id": 21,
+    "product_category": "Beverages",
+    "material_type": "Aseptic carton",
+    "proportion_pct": "10.00",
+    "size_min": "320.00",
+    "size_max": null,
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 134,
+    "store_id": 21,
+    "product_category": "Beverages",
+    "material_type": "Glass",
+    "proportion_pct": "5.00",
+    "size_min": "320.00",
+    "size_max": null,
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 135,
+    "store_id": 21,
+    "product_category": "Beverages",
+    "material_type": "Hard plastic",
+    "proportion_pct": "55.00",
+    "size_min": "320.00",
+    "size_max": null,
+    "size_unit": "mL"
+  },
+  {
+    "packaging_id": 136,
+    "store_id": 21,
+    "product_category": "Candy",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "70.00",
+    "size_min": "200.00",
+    "size_max": "288.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 137,
+    "store_id": 21,
+    "product_category": "Candy",
+    "material_type": "Hard plastic",
+    "proportion_pct": "20.00",
+    "size_min": "200.00",
+    "size_max": "288.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 138,
+    "store_id": 21,
+    "product_category": "Candy",
+    "material_type": "Paper or paperboard",
+    "proportion_pct": "5.00",
+    "size_min": "200.00",
+    "size_max": "288.00",
+    "size_unit": "g"
+  },
+  {
+    "packaging_id": 139,
+    "store_id": 21,
+    "product_category": "Chips",
+    "material_type": "Plastic film or multilayer plastic film",
+    "proportion_pct": "100.00",
+    "size_min": "56.00",
+    "size_max": "200.00",
+    "size_unit": "g"
+  }
+]

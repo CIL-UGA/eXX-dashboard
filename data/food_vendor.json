@@ -1,0 +1,192 @@
+[
+  {
+    "vendor_id": 1,
+    "survey123_id": "38acfd0f-baea-472e-95d8-7eb6cd79c296",
+    "leg_id": 1,
+    "vendor_name": "BP Fanshawe Street",
+    "vendor_type": "gas station to go",
+    "latitude": "-36.845985",
+    "longitude": "174.758942",
+    "survey_date": "2026-04-27 03:38:02"
+  },
+  {
+    "vendor_id": 3,
+    "survey123_id": "cc2f87bc-a060-4d7a-809a-c496af2d3694",
+    "leg_id": 1,
+    "vendor_name": "Wangjiao Chinese Reataurant",
+    "vendor_type": "sit down restaurant",
+    "latitude": null,
+    "longitude": null,
+    "survey_date": "2026-04-27 04:01:27"
+  },
+  {
+    "vendor_id": 4,
+    "survey123_id": "1a79424e-7359-44ef-8289-0262e738471a",
+    "leg_id": 1,
+    "vendor_name": "Koel",
+    "vendor_type": "coffee shop",
+    "latitude": "-36.842297",
+    "longitude": "174.763184",
+    "survey_date": "2026-04-27 04:03:29"
+  },
+  {
+    "vendor_id": 5,
+    "survey123_id": "d6016883-1f58-47e4-ad2a-bb1aa3a0818f",
+    "leg_id": 1,
+    "vendor_name": "Rosie\u2019s",
+    "vendor_type": "sit down restaurant",
+    "latitude": null,
+    "longitude": null,
+    "survey_date": "2026-04-27 04:11:11"
+  },
+  {
+    "vendor_id": 7,
+    "survey123_id": "df894a77-d3cf-4485-a171-bbf66c362a11",
+    "leg_id": 1,
+    "vendor_name": "Sebastian\u2019s boutique cafe",
+    "vendor_type": "coffee shop",
+    "latitude": "-36.856008",
+    "longitude": "174.814579",
+    "survey_date": "2026-04-28 03:33:23"
+  },
+  {
+    "vendor_id": 8,
+    "survey123_id": "43f16392-e50e-4be5-be3c-086c703371e0",
+    "leg_id": 1,
+    "vendor_name": "Port Fitzroy Store",
+    "vendor_type": "fast food",
+    "latitude": "-36.163964",
+    "longitude": "175.362105",
+    "survey_date": "2026-05-01 23:28:30"
+  },
+  {
+    "vendor_id": 9,
+    "survey123_id": "4d091d40-25d8-4e33-9dcd-d3714ccc0001",
+    "leg_id": 1,
+    "vendor_name": "Butterfish",
+    "vendor_type": "sit down restaurant",
+    "latitude": "-35.262134",
+    "longitude": "174.121645",
+    "survey_date": "2026-05-04 23:21:38"
+  },
+  {
+    "vendor_id": 10,
+    "survey123_id": "0fc941b8-a953-486d-9073-36ff26ddba40",
+    "leg_id": 1,
+    "vendor_name": "Hell Hole",
+    "vendor_type": "coffee shop",
+    "latitude": "-35.261942",
+    "longitude": "174.122478",
+    "survey_date": "2026-05-04 23:43:53"
+  },
+  {
+    "vendor_id": 11,
+    "survey123_id": "72c94155-9a62-456a-ab22-8f5806ba2da4",
+    "leg_id": 1,
+    "vendor_name": "Jiffy",
+    "vendor_type": "fast food",
+    "latitude": "-35.261711",
+    "longitude": "174.122144",
+    "survey_date": "2026-05-05 00:07:21"
+  },
+  {
+    "vendor_id": 12,
+    "survey123_id": "b6b643b9-cd90-4f0c-b16c-3668c248c6a7",
+    "leg_id": 1,
+    "vendor_name": "The grazing table",
+    "vendor_type": null,
+    "latitude": "-35.261769",
+    "longitude": "174.121969",
+    "survey_date": "2026-05-05 00:26:34"
+  },
+  {
+    "vendor_id": 13,
+    "survey123_id": "d4b8a391-4740-4b3c-bd95-c023395efbba",
+    "leg_id": 1,
+    "vendor_name": null,
+    "vendor_type": "grocery store deli",
+    "latitude": "-35.262691",
+    "longitude": "174.122757",
+    "survey_date": "2026-05-05 00:29:12"
+  },
+  {
+    "vendor_id": 14,
+    "survey123_id": "091294f0-003a-4763-80d6-8e665ee26e64",
+    "leg_id": 2,
+    "vendor_name": "All press coffee",
+    "vendor_type": "fast casual",
+    "latitude": "-35.312389",
+    "longitude": "174.121409",
+    "survey_date": "2026-05-11 02:55:05"
+  },
+  {
+    "vendor_id": 15,
+    "survey123_id": "3609c091-cc6d-4349-81f8-f89eeb514228",
+    "leg_id": 2,
+    "vendor_name": "Flo\u2019s Cafe",
+    "vendor_type": "coffee shop",
+    "latitude": "-35.315246",
+    "longitude": "174.119367",
+    "survey_date": "2026-05-11 09:37:13"
+  },
+  {
+    "vendor_id": 16,
+    "survey123_id": "dc3b397d-e3d4-47d3-bab7-6c8678e00b66",
+    "leg_id": 2,
+    "vendor_name": "Hot Pizza",
+    "vendor_type": "fast food",
+    "latitude": "-21.135444",
+    "longitude": "-175.201394",
+    "survey_date": "2026-05-25 23:01:29"
+  },
+  {
+    "vendor_id": 17,
+    "survey123_id": "67cb3d6c-a2c8-4280-bd0f-96fdfcfaccc0",
+    "leg_id": 3,
+    "vendor_name": "Fancy\u2019s Sweets",
+    "vendor_type": "fast casual",
+    "latitude": null,
+    "longitude": null,
+    "survey_date": "2026-06-02 03:47:42"
+  },
+  {
+    "vendor_id": 18,
+    "survey123_id": "db5b13ae-a268-4126-b364-b16b71b715a2",
+    "leg_id": 3,
+    "vendor_name": "Chicken joy",
+    "vendor_type": "fast food",
+    "latitude": "-21.138650",
+    "longitude": "-175.191169",
+    "survey_date": "2026-06-02 04:03:00"
+  },
+  {
+    "vendor_id": 19,
+    "survey123_id": "accb4c12-9657-4a1f-bef0-2f717b56f213",
+    "leg_id": 3,
+    "vendor_name": "Lucky Pot",
+    "vendor_type": "fast casual",
+    "latitude": "-19.804753",
+    "longitude": "-174.351157",
+    "survey_date": "2026-06-06 00:49:59"
+  },
+  {
+    "vendor_id": 20,
+    "survey123_id": "5fc6952f-94b1-4127-9969-8e4f96a2e651",
+    "leg_id": 3,
+    "vendor_name": "Bellavista",
+    "vendor_type": "sit down restaurant",
+    "latitude": "-18.653304",
+    "longitude": "-173.982610",
+    "survey_date": "2026-06-09 04:24:09"
+  },
+  {
+    "vendor_id": 21,
+    "survey123_id": "db2d4691-0ab6-4f1a-a42d-5125d100f692",
+    "leg_id": 3,
+    "vendor_name": "Mango",
+    "vendor_type": "sit down restaurant",
+    "latitude": "-18.656649",
+    "longitude": "-173.981549",
+    "survey_date": "2026-06-18 11:15:48"
+  }
+]

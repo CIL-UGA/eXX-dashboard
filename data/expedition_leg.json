@@ -1,0 +1,26 @@
+[
+  {
+    "leg_id": 1,
+    "expedition_id": 1,
+    "leg_name": "South Pacific I: Auckland to Bay of Islands",
+    "leg_number": 1,
+    "start_date": "2026-04-27",
+    "end_date": "2026-05-06"
+  },
+  {
+    "leg_id": 2,
+    "expedition_id": 1,
+    "leg_name": "South Pacific II: Bay of Islands to Tongatapu",
+    "leg_number": 2,
+    "start_date": "2026-05-11",
+    "end_date": "2026-05-27"
+  },
+  {
+    "leg_id": 3,
+    "expedition_id": 1,
+    "leg_name": "South Pacific III: Tongatapu to Vava'u",
+    "leg_number": 3,
+    "start_date": "2026-06-02",
+    "end_date": "2026-06-11"
+  }
+]
