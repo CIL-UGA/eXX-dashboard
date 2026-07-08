@@ -5,10 +5,13 @@
     "product_category": "Candy",
     "barcode": "9955725259213",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Cadbury Twirl",
+    "product_variant": null,
+    "parent_company": "Cadbury (Mondelez International)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Malaysia (barcode) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 2,
@@ -16,10 +19,13 @@
     "product_category": "Candy",
     "barcode": "9300605155459",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Nestl\u00e9 KitKat",
+    "product_variant": null,
+    "parent_company": "Nestl\u00e9",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode) / Switzerland (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 3,
@@ -27,10 +33,13 @@
     "product_category": "Candy",
     "barcode": "9300682051385",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Twix",
+    "product_variant": null,
+    "parent_company": "Mars Wrigley",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 4,
@@ -38,10 +47,13 @@
     "product_category": "Candy",
     "barcode": "6110915709005",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Cadbury Chokito",
+    "product_variant": null,
+    "parent_company": "Cadbury (Mondelez International)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "China (barcode) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 5,
@@ -49,10 +61,13 @@
     "product_category": "Candy",
     "barcode": "9418315124181",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "RJ's Licorice Logs",
+    "product_variant": null,
+    "parent_company": "RJ's Licorice Ltd",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 6,
@@ -60,10 +75,13 @@
     "product_category": "Candy",
     "barcode": "71150147",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Whittaker's Creamy Milk",
+    "product_variant": null,
+    "parent_company": "Whittaker's Chocolate",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 7,
@@ -71,10 +89,13 @@
     "product_category": "Candy",
     "barcode": "9314419027345",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
+    "brand_name": "Scorched Peanut Bar",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": "Australia",
+    "barcode_country": null
   },
   {
     "brand_id": 8,
@@ -82,10 +103,13 @@
     "product_category": "Candy",
     "barcode": "9400550646801",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Perky Nana",
+    "product_variant": null,
+    "parent_company": "Pascall (NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 9,
@@ -93,10 +117,13 @@
     "product_category": "Candy",
     "barcode": "9418315127298",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "RJ's Licorice Strawberry",
+    "product_variant": null,
+    "parent_company": "RJ's Licorice Ltd",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 10,
@@ -104,10 +131,13 @@
     "product_category": "Candy",
     "barcode": "9300605157743",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Milkybar",
+    "product_variant": null,
+    "parent_company": "Nestl\u00e9",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode) / Switzerland (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 11,
@@ -115,10 +145,13 @@
     "product_category": "Beverages",
     "barcode": "9300675024259",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Powerade",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 12,
@@ -126,10 +159,13 @@
     "product_category": "Beverages",
     "barcode": "9300675085823",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Fuze Tea",
+    "product_variant": "Peach",
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 13,
@@ -137,10 +173,13 @@
     "product_category": "Beverages",
     "barcode": "9415062014314",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "e2 Liquid Energy",
+    "product_variant": null,
+    "parent_company": "Coca Cola Europacific Partners NZ",
+    "parent_company_location": "19 Carbine Road, Mt Wellington, Auckland, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 14,
@@ -148,10 +187,13 @@
     "product_category": "Beverages",
     "barcode": "9415767024731",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Gatorade",
+    "product_variant": null,
+    "parent_company": "PepsiCo",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 15,
@@ -159,10 +201,13 @@
     "product_category": "Beverages",
     "barcode": "29470000105",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Dasani",
+    "product_variant": "bottled water",
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 16,
@@ -170,10 +215,13 @@
     "product_category": "Beverages",
     "barcode": "9358155000286",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Lipton Ice Tea",
+    "product_variant": "Strawberry",
+    "parent_company": "PepsiLipton (Unilever/PepsiCo joint venture)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 17,
@@ -181,10 +229,13 @@
     "product_category": "Beverages",
     "barcode": "8850389100684",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Mogu Mogu",
+    "product_variant": "Lychee, Nata de Coco",
+    "parent_company": "Sappe Public Company Limited",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Thailand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 18,
@@ -192,10 +243,13 @@
     "product_category": "Beverages",
     "barcode": "9419068100002",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pure Dew",
+    "product_variant": "bottled water",
+    "parent_company": "Pure Dew",
+    "parent_company_location": "New Zealand's highest purity bottled water\"\"",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 19,
@@ -203,10 +257,13 @@
     "product_category": "Beverages",
     "barcode": "9421905486002",
     "material_type": "Hard plastic - HDPE",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Anew",
+    "product_variant": "reusable bottle water",
+    "parent_company": "Anew Water Ltd",
+    "parent_company_location": "Made in New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 20,
@@ -214,10 +271,13 @@
     "product_category": "Beverages",
     "barcode": "9300675009843",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Fanta",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 21,
@@ -225,10 +285,13 @@
     "product_category": "Chips",
     "barcode": "9400566009546",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Bluebird Originals",
+    "product_variant": "Ready Salted",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 22,
@@ -236,10 +299,13 @@
     "product_category": "Chips",
     "barcode": "9400566004534",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Copper Kettle",
+    "product_variant": "Sea Salt",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 23,
@@ -247,10 +313,13 @@
     "product_category": "Chips",
     "barcode": "9400566009645",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Grain Waves",
+    "product_variant": "Sour Cream & Chives",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 24,
@@ -258,10 +327,13 @@
     "product_category": "Chips",
     "barcode": "9414882456144",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "SnackaChangi",
+    "product_variant": "Vinegar",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 25,
@@ -269,10 +341,13 @@
     "product_category": "Chips",
     "barcode": "9421014900017",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Sniks Traditional Pork Crackle",
+    "product_variant": null,
+    "parent_company": "SNIKS Limited",
+    "parent_company_location": "10 Matos Segedin Drive, Cambridge, 3495",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 26,
@@ -280,10 +355,13 @@
     "product_category": "Chips",
     "barcode": "5060440130366",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Well & Truly Crunchies",
+    "product_variant": "Punchy Pickles",
+    "parent_company": "Well&Truly",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "United Kingdom",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 27,
@@ -291,10 +369,13 @@
     "product_category": "Chips",
     "barcode": "9415359101123",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Pop'n'Good",
+    "product_variant": "Light and Buttery popcorn",
+    "parent_company": "Pop'n'Good \u2014 Popped here in New Zealand since 1984\"\"",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 28,
@@ -302,10 +383,13 @@
     "product_category": "Chips",
     "barcode": "9312564608754",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Sensational Pork Crackle",
+    "product_variant": "Smokey Bacon",
+    "parent_company": "New World Foods Pty Ltd",
+    "parent_company_location": "6 Foy Street, Casino, NSW, Australia",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 29,
@@ -313,10 +397,13 @@
     "product_category": "Beverages",
     "barcode": "9300675009829",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Coca-Cola",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 30,
@@ -324,10 +411,13 @@
     "product_category": "Beverages",
     "barcode": "9300675035699",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Powerade",
+    "product_variant": "Mountain Blast",
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 31,
@@ -335,10 +425,13 @@
     "product_category": "Beverages",
     "barcode": "9415767035072",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Just Juice Splash",
+    "product_variant": null,
+    "parent_company": "Frucor Suntory",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 32,
@@ -346,10 +439,13 @@
     "product_category": "Beverages",
     "barcode": "9415062014314",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "e2 Liquid Energy",
+    "product_variant": null,
+    "parent_company": "Coca Cola Europacific Partners NZ",
+    "parent_company_location": "19 Carbine Road, Mt Wellington, Auckland, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 33,
@@ -357,10 +453,13 @@
     "product_category": "Beverages",
     "barcode": "9300675018142",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Pump",
+    "product_variant": "bottled water",
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 34,
@@ -368,10 +467,13 @@
     "product_category": "Beverages",
     "barcode": "9300675085663",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Vitaminwater",
+    "product_variant": "Glac\u00e9au",
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (bottled) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 35,
@@ -379,10 +481,13 @@
     "product_category": "Beverages",
     "barcode": "9421905486033",
     "material_type": "Hard plastic - HDPE",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Anew",
+    "product_variant": "reusable bottle water",
+    "parent_company": "Anew Water Ltd",
+    "parent_company_location": "Proudly made in New Zealand\"\"",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 36,
@@ -390,10 +495,13 @@
     "product_category": "Beverages",
     "barcode": "9310021039035",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Lipton Ice Tea",
+    "product_variant": "Peach",
+    "parent_company": "PepsiLipton (Unilever/PepsiCo joint venture)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 37,
@@ -401,10 +509,13 @@
     "product_category": "Candy",
     "barcode": "93698184",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Kinder Surprise",
+    "product_variant": null,
+    "parent_company": "Ferrero",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Italy",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 38,
@@ -412,10 +523,13 @@
     "product_category": "Candy",
     "barcode": "9300682100052",
     "material_type": "Hard plastic - HDPE",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Skittles",
+    "product_variant": "tube",
+    "parent_company": "Mars Wrigley",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 39,
@@ -423,10 +537,13 @@
     "product_category": "Candy",
     "barcode": "6911316002098",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Chupa Chups",
+    "product_variant": null,
+    "parent_company": "Perfetti Van Melle",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "China (made) / Italy-Netherlands (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 40,
@@ -434,10 +551,13 @@
     "product_category": "Chips",
     "barcode": "9400566010528",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Cheetos",
+    "product_variant": "Flamin' Hot style",
+    "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 41,
@@ -445,10 +565,13 @@
     "product_category": "Chips",
     "barcode": "9414882453716",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Kettle Honey Soy Chicken",
+    "product_variant": "with NZ Manuka Honey",
+    "parent_company": "Kettle Chip Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia/New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 42,
@@ -456,10 +579,13 @@
     "product_category": "Chips",
     "barcode": "64535173",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Proper Crisps",
+    "product_variant": "Cider Vinegar & Sea Salt",
+    "parent_company": "Proper Crisps Ltd",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 43,
@@ -467,10 +593,13 @@
     "product_category": "Chips",
     "barcode": "9400566009621",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Doritos",
+    "product_variant": null,
+    "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 44,
@@ -478,10 +607,13 @@
     "product_category": "Chips",
     "barcode": "9310015258336",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Doritos D Nam Tok\" (Ultra Flavour)\"",
+    "product_variant": null,
+    "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 45,
@@ -489,10 +621,13 @@
     "product_category": "Chips",
     "barcode": "9310015256882",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "PopCorners Sweet & Salty",
+    "product_variant": null,
+    "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 46,
@@ -500,10 +635,13 @@
     "product_category": "Chips",
     "barcode": "7500810041574",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Takis Fuego",
+    "product_variant": null,
+    "parent_company": "Barcel (Grupo Bimbo)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Mexico",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 47,
@@ -511,10 +649,13 @@
     "product_category": "Chips",
     "barcode": "9414882460790",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "ETA Ripples",
+    "product_variant": "Sour Cream",
+    "parent_company": "ETA / Bluebird Foods (PepsiCo NZ subsidiary)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 48,
@@ -522,10 +663,13 @@
     "product_category": "Beverages",
     "barcode": "9400556002243",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Nestl\u00e9 Pixie Caramel",
+    "product_variant": "Original",
+    "parent_company": "Nestl\u00e9",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Switzerland",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 49,
@@ -533,10 +677,13 @@
     "product_category": "Beverages",
     "barcode": "9400550636000",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cadbury Pinky\"\"",
+    "product_variant": null,
+    "parent_company": "Cadbury (Mondelez International)",
+    "parent_company_location": "205 Canterbury Road, Ringwood, Victoria 3134, Australia",
+    "parent_company_country": "Australia (made) / USA (parent, Mondelez)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 50,
@@ -544,10 +691,13 @@
     "product_category": "Beverages",
     "barcode": "93682671",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "M&M's Peanut",
+    "product_variant": null,
+    "parent_company": "Mars Wrigley (Mars, Inc.)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 51,
@@ -555,10 +705,13 @@
     "product_category": "Beverages",
     "barcode": "6001120000363",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Damascus",
+    "product_variant": "Original",
+    "parent_company": "Manufactured in South Africa; distributed by DKSH New Zealand Ltd",
+    "parent_company_location": "279 Railway Road, Milson, Palmerston North 4470, New Zealand (distributor)",
+    "parent_company_country": "South Africa (made)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 52,
@@ -566,10 +719,13 @@
     "product_category": "Beverages",
     "barcode": "9300675090391",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Coca-Cola Zero Sugar",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company (Coca-Cola Amatil)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (bottled) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 53,
@@ -577,10 +733,13 @@
     "product_category": "Beverages",
     "barcode": "9300675009867",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Sprite",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company (Coca-Cola Amatil)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (bottled) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 54,
@@ -588,10 +747,13 @@
     "product_category": "Beverages",
     "barcode": "9300624006121",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Schweppes Sparkling Duet",
+    "product_variant": null,
+    "parent_company": "Coca Cola Europacific Partners NZ",
+    "parent_company_location": "19 Carbina Road, Mt Wellington, Auckland, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 55,
@@ -599,10 +761,13 @@
     "product_category": "Beverages",
     "barcode": "9300624005490",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "L&P",
+    "product_variant": "Lemon & Paeroa",
+    "parent_company": "The Coca-Cola Company (Coca-Cola Amatil NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 56,
@@ -610,10 +775,13 @@
     "product_category": "Beverages",
     "barcode": "9300624005353",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Pump",
+    "product_variant": "bottled water",
+    "parent_company": "The Coca-Cola Company (Coca-Cola Amatil)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 57,
@@ -621,10 +789,13 @@
     "product_category": "Beverages",
     "barcode": "9300675085663",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Vitaminwater",
+    "product_variant": "Glac\u00e9au",
+    "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (bottled) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 58,
@@ -632,10 +803,13 @@
     "product_category": "Beverages",
     "barcode": "9300675096119",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Keri",
+    "product_variant": null,
+    "parent_company": "Coca Cola Europacific Partners NZ",
+    "parent_company_location": "Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 59,
@@ -643,10 +817,13 @@
     "product_category": "Beverages",
     "barcode": "94123524",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "V Energy Drink",
+    "product_variant": null,
+    "parent_company": "Frucor Suntory",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand (Suntory, Japan parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 60,
@@ -654,10 +831,13 @@
     "product_category": "Beverages",
     "barcode": "9414789103578",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Pepsi",
+    "product_variant": null,
+    "parent_company": "PepsiCo",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 61,
@@ -665,10 +845,13 @@
     "product_category": "Beverages",
     "barcode": "9414789388371",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Mountain Dew",
+    "product_variant": null,
+    "parent_company": "PepsiCo",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 62,
@@ -676,10 +859,13 @@
     "product_category": "Beverages",
     "barcode": "9414090893434",
     "material_type": "Hard plastic - HDPE",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Cool Change",
+    "product_variant": null,
+    "parent_company": "Cool Change",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 63,
@@ -687,10 +873,13 @@
     "product_category": "Beverages",
     "barcode": "9421030221738",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Picky 100% Jazz Apple Juice",
+    "product_variant": null,
+    "parent_company": "Made in New Zealand from 100% New Zealand Apples\"\"",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 64,
@@ -698,10 +887,13 @@
     "product_category": "Candy",
     "barcode": "9421011261371",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Chocolate Coated Raspberry Marshmallow Fish",
+    "product_variant": null,
+    "parent_company": "Rainbow Confectionery Ltd",
+    "parent_company_location": "459 Thames Highway, Oamaru, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 65,
@@ -709,10 +901,13 @@
     "product_category": "Candy",
     "barcode": "8850632618621",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
+    "brand_name": "Extreme Z",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": null,
+    "barcode_country": "Thailand"
   },
   {
     "brand_id": 66,
@@ -720,10 +915,13 @@
     "product_category": "Candy",
     "barcode": "9415312001392",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
+    "brand_name": "Magic Sweet Roll",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 67,
@@ -731,10 +929,13 @@
     "product_category": "Candy",
     "barcode": "6942797404057",
     "material_type": "Hard plastic - HDPE",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Gob Licker\" Sour Liquid Candy\"",
+    "product_variant": null,
+    "parent_company": "Australian International Traders",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia",
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 68,
@@ -742,10 +943,13 @@
     "product_category": "Chips",
     "barcode": "8993004785504",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cheeze Ring\"\"",
+    "product_variant": null,
+    "parent_company": "Distributed by Geneva Distributors Ltd",
+    "parent_company_location": "125 Pavilion Drive, Airport Oaks, Auckland, New Zealand",
+    "parent_company_country": "Indonesia (barcode prefix 899), distributed in NZ",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 69,
@@ -753,10 +957,13 @@
     "product_category": "Chips",
     "barcode": "9557062500449",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Corntos\" Cheese Flavour\"",
+    "product_variant": null,
+    "parent_company": "Distributed by Geneva Distributors Ltd",
+    "parent_company_location": "125 Pavilion Drive, Airport Oaks, Auckland, New Zealand",
+    "parent_company_country": "Malaysia (barcode prefix 955), distributed in NZ",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 70,
@@ -764,10 +971,13 @@
     "product_category": "Beverages",
     "barcode": "9300675024235",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Powerade",
+    "product_variant": "Mountain Blast",
+    "parent_company": "The Coca-Cola Company",
+    "parent_company_location": "Distributed in NZ/AU",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 71,
@@ -775,10 +985,13 @@
     "product_category": "Beverages",
     "barcode": "9415767836020",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
+    "brand_name": "The Real McCoy Tomato Juice",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 72,
@@ -786,10 +999,13 @@
     "product_category": "Beverages",
     "barcode": null,
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pure NZ Spring Water",
+    "product_variant": "600ml",
+    "parent_company": "Pure NZ",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 73,
@@ -797,10 +1013,13 @@
     "product_category": "Beverages",
     "barcode": "9421017730512",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Green Valley",
+    "product_variant": null,
+    "parent_company": "Green Valley Dairies Ltd",
+    "parent_company_location": "206 Bell Road, Mangatawhiri, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 74,
@@ -808,10 +1027,13 @@
     "product_category": "Chips",
     "barcode": "9310015242205",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Doritos Salsa",
+    "product_variant": null,
+    "parent_company": "The Smith's Snackfood Co / Bluebird Foods (PepsiCo)",
+    "parent_company_location": "Made in New Zealand",
+    "parent_company_country": "USA (PepsiCo parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 75,
@@ -819,10 +1041,13 @@
     "product_category": "Chips",
     "barcode": "9400566004978",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Bluebird Originals Salt & Vinegar",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods (PepsiCo)",
+    "parent_company_location": "New Zealand (100% NZ grown potatoes)",
+    "parent_company_country": "USA (PepsiCo parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 76,
@@ -830,10 +1055,13 @@
     "product_category": "Chips",
     "barcode": "9400566011167",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Delisio Restaurant Series Smoky Beef Ribs",
+    "product_variant": "with Andy Cooks",
+    "parent_company": "Bluebird Foods (PepsiCo)",
+    "parent_company_location": "Made in New Zealand",
+    "parent_company_country": "USA (PepsiCo parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 77,
@@ -841,10 +1069,13 @@
     "product_category": "Chips",
     "barcode": "9414882458551",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "SnackaChangi Sweet Chilli Chips",
+    "product_variant": null,
+    "parent_company": "SnackaChangi / Snack Champs",
+    "parent_company_location": "Made in New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 78,
@@ -852,10 +1083,13 @@
     "product_category": "Chips",
     "barcode": "9400566007801",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Bluebird Twisties",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods (PepsiCo)",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "USA (PepsiCo parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 79,
@@ -863,10 +1097,13 @@
     "product_category": "Chips",
     "barcode": "9400566004541",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Copper Kettle Chips",
+    "product_variant": null,
+    "parent_company": "Copper Kettle Chips Co.",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 80,
@@ -874,10 +1111,13 @@
     "product_category": "Chips",
     "barcode": "9310015256899",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "PopCorners Cheddar Cheese",
+    "product_variant": null,
+    "parent_company": "The Smith's Snackfood Co (PepsiCo)",
+    "parent_company_location": "Made in Cambodia",
+    "parent_company_country": "USA (PepsiCo parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 81,
@@ -885,10 +1125,13 @@
     "product_category": "Chips",
     "barcode": "9400566010559",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cheetos Crunchy",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Limited",
+    "parent_company_location": "124 Wiri Station Road, Manukau, Auckland 2104, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "New Zealand",
+    "barcode_country": null
   },
   {
     "brand_id": 82,
@@ -896,10 +1139,13 @@
     "product_category": "Chips",
     "barcode": "9400566004978",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Bluebird Originals",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 83,
@@ -907,10 +1153,13 @@
     "product_category": "Chips",
     "barcode": "9400553462866",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Griffin's Cornados",
+    "product_variant": "Cheese Supreme",
+    "parent_company": "Griffin's Foods",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 84,
@@ -918,10 +1167,13 @@
     "product_category": "Chips",
     "barcode": "9414882462411",
     "material_type": null,
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "ETA Ripples",
+    "product_variant": "Pickled Onion",
+    "parent_company": "ETA / Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 85,
@@ -929,10 +1181,13 @@
     "product_category": "Chips",
     "barcode": "9400566011235",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Doritos",
+    "product_variant": null,
+    "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 86,
@@ -940,10 +1195,13 @@
     "product_category": "Chips",
     "barcode": "9400566010184",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Delisio",
+    "product_variant": "Prawn Cocktail",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 87,
@@ -951,10 +1209,13 @@
     "product_category": "Chips",
     "barcode": "9421905498678",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Proper Crisps",
+    "product_variant": "Big Cut, Smoked Paprika",
+    "parent_company": "Proper Crisps Ltd",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 88,
@@ -962,10 +1223,13 @@
     "product_category": "Chips",
     "barcode": "9400566006224",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Copper Kettle",
+    "product_variant": "Cheddar & Chives",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 89,
@@ -973,10 +1237,13 @@
     "product_category": "Chips",
     "barcode": "9414882461346",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Natural Chip Co. Whirls",
+    "product_variant": "Salt & Vinegar",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 90,
@@ -984,10 +1251,13 @@
     "product_category": "Chips",
     "barcode": "9400566009805",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Grain Waves",
+    "product_variant": "Salsa",
+    "parent_company": "Bluebird Foods (PepsiCo NZ)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 91,
@@ -995,10 +1265,13 @@
     "product_category": "Chips",
     "barcode": "9310015256912",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "PopCorners",
+    "product_variant": "Sour Cream & Chives",
+    "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Australia (barcode) / USA (parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 92,
@@ -1006,10 +1279,13 @@
     "product_category": "Beverages",
     "barcode": "94152845",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "e2 Orange Liquid Energy Fruit Drink",
+    "product_variant": null,
+    "parent_company": "Coca-Cola Europacific Partners NZ Ltd",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "USA/NZ",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 93,
@@ -1017,10 +1293,13 @@
     "product_category": "Beverages",
     "barcode": "8809041428062",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "OKF Farmer's Aloe Vera Drink",
+    "product_variant": "Pomegranate",
+    "parent_company": "OKF Corporation",
+    "parent_company_location": "South Korea",
+    "parent_company_country": "South Korea",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 94,
@@ -1028,10 +1307,13 @@
     "product_category": "Beverages",
     "barcode": "8850389101391",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Mogu Mogu Grape Flavoured Drink",
+    "product_variant": null,
+    "parent_company": "Sappe Public Company Limited",
+    "parent_company_location": "Thailand",
+    "parent_company_country": "Thailand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 95,
@@ -1039,10 +1321,13 @@
     "product_category": "Beverages",
     "barcode": "9311336030298",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nippy's Iced Strawberry Flavoured Milk",
+    "product_variant": null,
+    "parent_company": "Knispel Bros Pty Ltd (Nippy's)",
+    "parent_company_location": "153 Loxton Drive, Moorook, South Australia",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 96,
@@ -1050,10 +1335,13 @@
     "product_category": "Beverages",
     "barcode": "9310021043490",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
+    "brand_name": "Lipton Ice Tea",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "Australia",
+    "barcode_country": null
   },
   {
     "brand_id": 97,
@@ -1061,10 +1349,13 @@
     "product_category": "Beverages",
     "barcode": "9300624013792",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Sparkling Duet",
+    "product_variant": null,
+    "parent_company": "Coca Cola Europacific Partners NZ",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 98,
@@ -1072,10 +1363,13 @@
     "product_category": "Beverages",
     "barcode": "94123524",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "V Energy Drink",
+    "product_variant": null,
+    "parent_company": "Frucor Suntory",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand (Suntory, Japan parent)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 99,
@@ -1083,10 +1377,13 @@
     "product_category": "Beverages",
     "barcode": "9417522000295",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Otakiri Springs",
+    "product_variant": "bottled water",
+    "parent_company": "Otakiri Springs Ltd, sourced from Otakiri aquifer",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 100,
@@ -1094,10 +1391,13 @@
     "product_category": "Beverages",
     "barcode": "9421006044323",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Charlie's Honest Pressed Tropical Juice",
+    "product_variant": null,
+    "parent_company": "Charlie's Group",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 101,
@@ -1105,10 +1405,13 @@
     "product_category": "Beverages",
     "barcode": "9300675086714",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Keri Juice Co. Fruity Drink",
+    "product_variant": null,
+    "parent_company": "Keri Juice Co.",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 102,
@@ -1116,10 +1419,13 @@
     "product_category": "Candy",
     "barcode": "93613583",
     "material_type": "Hard plastic - HDPE",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Hubba Bubba Bubble Tape Seriously Strawberry",
+    "product_variant": null,
+    "parent_company": "Wrigley (Mars)",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 103,
@@ -1127,10 +1433,13 @@
     "product_category": "Candy",
     "barcode": "8964003070748",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Tutti Frutti Unicorn Lolly",
+    "product_variant": null,
+    "parent_company": "DKSH New Zealand Limited",
+    "parent_company_location": "179 Railway Road, Milson, Palmerston North 4470 New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "Pakistan",
+    "barcode_country": null
   },
   {
     "brand_id": 104,
@@ -1138,10 +1447,13 @@
     "product_category": "Candy",
     "barcode": "6942797402084",
     "material_type": "Hard plastic - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cool Banana Spray Candy",
+    "product_variant": null,
+    "parent_company": "Dragon Sweets NZ Limited",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 105,
@@ -1149,10 +1461,13 @@
     "product_category": "Candy",
     "barcode": "8964003070830",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
+    "brand_name": "Bottle Candy",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 106,
@@ -1160,10 +1475,13 @@
     "product_category": "Candy",
     "barcode": "9414354002053",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Empire Confectionery Liquorice",
+    "product_variant": null,
+    "parent_company": "Empire Confectionery",
+    "parent_company_location": "Mt Wellington, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 107,
@@ -1171,10 +1489,13 @@
     "product_category": "Candy",
     "barcode": "4003084880403",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Trolli Party Burger Minis",
+    "product_variant": null,
+    "parent_company": "Ferrara Candy Company (Trolli brand)",
+    "parent_company_location": "Germany-origin brand",
+    "parent_company_country": "Germany",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 108,
@@ -1182,10 +1503,13 @@
     "product_category": "Candy",
     "barcode": "9400563122101",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nice & Natural Enduro Energy Bar",
+    "product_variant": null,
+    "parent_company": "Nice & Natural",
+    "parent_company_location": "Ash Road, Wiri, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 109,
@@ -1193,10 +1517,13 @@
     "product_category": "Candy",
     "barcode": "93698535",
     "material_type": "Hard plastic - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nutella & Go!",
+    "product_variant": "Hazelnut Spread + Breadsticks",
+    "parent_company": "Ferrero",
+    "parent_company_location": "Italy",
+    "parent_company_country": "Italy",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 110,
@@ -1204,10 +1531,13 @@
     "product_category": "Candy",
     "barcode": "9418315127274",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
+    "brand_name": "Fabulicious Twister Raspberry",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 111,
@@ -1215,10 +1545,13 @@
     "product_category": "Candy",
     "barcode": "79200616007",
     "material_type": "Other",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nerds Candy",
+    "product_variant": null,
+    "parent_company": "Ferrara Candy Company (Ferrero)",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 112,
@@ -1226,10 +1559,13 @@
     "product_category": "Beverages",
     "barcode": "94123562",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "V Blue Guarana Energy Drink",
+    "product_variant": null,
+    "parent_company": "Frucor Suntory New Zealand Ltd",
+    "parent_company_location": "Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 113,
@@ -1237,10 +1573,13 @@
     "product_category": "Beverages",
     "barcode": "94152845",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "e2 Orange Liquid Energy Fruit Drink",
+    "product_variant": null,
+    "parent_company": "Coca-Cola Europacific Partners NZ Ltd / The Coca-Cola Company",
+    "parent_company_location": "Mt Wellington, Auckland, NZ",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 114,
@@ -1248,10 +1587,13 @@
     "product_category": "Beverages",
     "barcode": "9415767011366",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "GForce Mango Pineapple Vitamin Enhanced Drink",
+    "product_variant": null,
+    "parent_company": "Frucor Suntory New Zealand Ltd",
+    "parent_company_location": "Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 115,
@@ -1259,10 +1601,13 @@
     "product_category": "Beverages",
     "barcode": "9400581053265",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Musashi Hydrate Blue Raspberry",
+    "product_variant": null,
+    "parent_company": "Vitaco Health",
+    "parent_company_location": "Auckland, NZ / North Ryde, NSW, Australia",
+    "parent_company_country": "New Zealand/Australia",
+    "manufacturer_location": "Australia",
+    "barcode_country": null
   },
   {
     "brand_id": 116,
@@ -1270,10 +1615,13 @@
     "product_category": "Beverages",
     "barcode": "9400581045628",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Musashi High Protein Vanilla Milkshake",
+    "product_variant": null,
+    "parent_company": "Vitaco Health",
+    "parent_company_location": "Auckland, NZ / North Ryde, NSW, Australia",
+    "parent_company_country": "New Zealand/Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 117,
@@ -1281,10 +1629,13 @@
     "product_category": "Beverages",
     "barcode": "9421903599025",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Lucozade Energy Original",
+    "product_variant": null,
+    "parent_company": "Suntory Beverage & Food New Zealand Ltd",
+    "parent_company_location": "Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 118,
@@ -1292,10 +1643,13 @@
     "product_category": "Beverages",
     "barcode": "9300675086714",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Keri Juice Co. Fruity Drink Apple",
+    "product_variant": null,
+    "parent_company": "Coca-Cola New Zealand",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 119,
@@ -1303,10 +1657,13 @@
     "product_category": "Beverages",
     "barcode": "9415767035096",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Just Juice Splash",
+    "product_variant": null,
+    "parent_company": "Frucor Suntory New Zealand Ltd",
+    "parent_company_location": "Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 120,
@@ -1314,10 +1671,13 @@
     "product_category": "Beverages",
     "barcode": "9414789953593",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Mountain Dew",
+    "product_variant": null,
+    "parent_company": "PepsiCo",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 121,
@@ -1325,10 +1685,13 @@
     "product_category": "Beverages",
     "barcode": "94005882",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Coca-Cola",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company",
+    "parent_company_location": "Atlanta, GA, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 122,
@@ -1336,10 +1699,13 @@
     "product_category": "Candy",
     "barcode": "24408400",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Whittaker's Peanut Slab Milk Chocolate Bar",
+    "product_variant": null,
+    "parent_company": "Whittaker's",
+    "parent_company_location": "Porirua, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 123,
@@ -1347,10 +1713,13 @@
     "product_category": "Candy",
     "barcode": "9300617301530",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Fry's Turkish Delight",
+    "product_variant": null,
+    "parent_company": "Cadbury (Mondelez International)",
+    "parent_company_location": "UK-origin brand",
+    "parent_company_country": "UK/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 124,
@@ -1358,10 +1727,13 @@
     "product_category": "Candy",
     "barcode": "6942836702526",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Hershey's Cookies 'n' Creme",
+    "product_variant": null,
+    "parent_company": "The Hershey Company (mfg: Hershey Malaysia Sdn. Bhd.)",
+    "parent_company_location": "Malaysia",
+    "parent_company_country": "USA",
+    "manufacturer_location": "Malaysia",
+    "barcode_country": null
   },
   {
     "brand_id": 125,
@@ -1369,10 +1741,13 @@
     "product_category": "Candy",
     "barcode": "850027880129",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Feastables Milk Chocolate",
+    "product_variant": "MrBeast",
+    "parent_company": "Feastables LLC",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 126,
@@ -1380,10 +1755,13 @@
     "product_category": "Candy",
     "barcode": "6001120000363",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Damascus French-Style Nougat Original",
+    "product_variant": null,
+    "parent_company": "Beacon Sweets & Chocolates",
+    "parent_company_location": "South Africa",
+    "parent_company_country": "South Africa",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 127,
@@ -1391,10 +1769,13 @@
     "product_category": "Candy",
     "barcode": "9400550646801",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cadbury Perky Nana",
+    "product_variant": null,
+    "parent_company": "Mondelez International",
+    "parent_company_location": "Ringwood, Victoria, Australia",
+    "parent_company_country": "Australia",
+    "manufacturer_location": "Australia",
+    "barcode_country": null
   },
   {
     "brand_id": 128,
@@ -1402,10 +1783,13 @@
     "product_category": "Candy",
     "barcode": "9300617408710",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cadbury Twirl",
+    "product_variant": null,
+    "parent_company": "Mondelez International",
+    "parent_company_location": "Australia",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 129,
@@ -1413,10 +1797,13 @@
     "product_category": "Candy",
     "barcode": "9400550007701",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cadbury Moro Gold",
+    "product_variant": null,
+    "parent_company": "Mondelez International",
+    "parent_company_location": "New Zealand/Australia",
+    "parent_company_country": "New Zealand/Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 130,
@@ -1424,10 +1811,13 @@
     "product_category": "Candy",
     "barcode": "9300605149014",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nestl\u00e9 Chokito",
+    "product_variant": null,
+    "parent_company": "Nestl\u00e9",
+    "parent_company_location": "Switzerland (Australia market)",
+    "parent_company_country": "Switzerland",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 131,
@@ -1435,10 +1825,13 @@
     "product_category": "Candy",
     "barcode": "9421011261371",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Rainbow Chocky Fish",
+    "product_variant": null,
+    "parent_company": "Rainbow Confectionery",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 132,
@@ -1446,10 +1839,13 @@
     "product_category": "Chips",
     "barcode": "9400566009546",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Bluebird Originals Ready Salted",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Limited (PepsiCo)",
+    "parent_company_location": "Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 133,
@@ -1457,10 +1853,13 @@
     "product_category": "Chips",
     "barcode": "9400566009621",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Doritos Cheese Supreme",
+    "product_variant": null,
+    "parent_company": "PepsiCo/Frito-Lay",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 134,
@@ -1468,10 +1867,13 @@
     "product_category": "Chips",
     "barcode": "9400566004589",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Copper Kettle Chips Sea Salt & Vinegar",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Limited",
+    "parent_company_location": "Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 135,
@@ -1479,10 +1881,13 @@
     "product_category": "Beverages",
     "barcode": "9415767024731",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Gatorade Fierce Berry",
+    "product_variant": "1L",
+    "parent_company": "Suntory Beverage & Food NZ Ltd (under license from Stokely-Van Camp Inc./PepsiCo)",
+    "parent_company_location": "6 Plunket Ave, Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand (parent brand owner: USA)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 136,
@@ -1490,10 +1895,13 @@
     "product_category": "Beverages",
     "barcode": "9415767038615",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Just Juice Orange & Mango",
+    "product_variant": "1L",
+    "parent_company": "Frucor Suntory New Zealand Ltd",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 137,
@@ -1501,10 +1909,13 @@
     "product_category": "Beverages",
     "barcode": "9415767807020",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "The Real McCoy Pineapple Premium Fruit Juice",
+    "product_variant": "1L",
+    "parent_company": "Suntory Beverage & Food NZ Ltd",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 138,
@@ -1512,10 +1923,13 @@
     "product_category": "Beverages",
     "barcode": "9415767032859",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Fresh Up Big Fizz Juicy Orange",
+    "product_variant": "1L",
+    "parent_company": "Frucor Suntory New Zealand Ltd",
+    "parent_company_location": "6 Plunket Ave, Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 139,
@@ -1523,10 +1937,13 @@
     "product_category": "Beverages",
     "barcode": "9300675035538",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Keri Juice Co. Juice Kitchen Premium Cranberry Fruit Drink",
+    "product_variant": "1L",
+    "parent_company": "Coca-Cola New Zealand",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 140,
@@ -1534,10 +1951,13 @@
     "product_category": "Beverages",
     "barcode": "9421011990356",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "MO (Mill Orchard Juicery) Juicy Orange & Apple Juice",
+    "product_variant": "250ml",
+    "parent_company": "Mill Orchard Ltd",
+    "parent_company_location": "25 Rossiters Rd, Loburn, North Canterbury, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 141,
@@ -1545,10 +1965,13 @@
     "product_category": "Beverages",
     "barcode": "9300675036337",
     "material_type": "Hard plastic - rPET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pump'd Lime",
+    "product_variant": "750ml",
+    "parent_company": "Coca-Cola Amatil (NZ) Ltd / The Coca-Cola Company",
+    "parent_company_location": "59 Carbine Rd, Mt Wellington, Auckland, NZ",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 142,
@@ -1556,10 +1979,13 @@
     "product_category": "Beverages",
     "barcode": "9300624005490",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "L&P",
+    "product_variant": "Lemon & Paeroa, 600ml",
+    "parent_company": "Coca-Cola Amatil (NZ) Ltd",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 143,
@@ -1567,10 +1993,13 @@
     "product_category": "Beverages",
     "barcode": "9300675009829",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Coca-Cola",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company",
+    "parent_company_location": "Atlanta, GA, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 144,
@@ -1578,10 +2007,13 @@
     "product_category": "Beverages",
     "barcode": "9415522005791",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Meadow Fresh Calci Strong Banan-O-Rama Flavoured Milk",
+    "product_variant": "500ml",
+    "parent_company": "Goodman Fielder Group",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 145,
@@ -1589,10 +2021,13 @@
     "product_category": "Candy",
     "barcode": "32134227121",
     "material_type": "Hard plastic - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Warheads Extreme Sour",
+    "product_variant": "Green Apple",
+    "parent_company": "Impact Confections, Inc.",
+    "parent_company_location": "Louisville, Kentucky",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 146,
@@ -1600,10 +2035,13 @@
     "product_category": "Candy",
     "barcode": "9300617322863",
     "material_type": "Plastic film - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cadbury Crunchie",
+    "product_variant": null,
+    "parent_company": "Cadbury / Mondelez International",
+    "parent_company_location": "Australia (barcode prefix 930)",
+    "parent_company_country": "Australia/USA (Mondelez HQ)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 147,
@@ -1611,10 +2049,13 @@
     "product_category": "Candy",
     "barcode": "1230000131339",
     "material_type": "Plastic film - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nerds",
+    "product_variant": null,
+    "parent_company": "Ferrara Candy Company",
+    "parent_company_location": "Chicago, Illinois",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 148,
@@ -1622,10 +2063,13 @@
     "product_category": "Candy",
     "barcode": "8964000977149",
     "material_type": "Plastic film - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Ghouliez Chewy Tape",
+    "product_variant": "Apple",
+    "parent_company": "Made in Pakistan by CFI (Pvt) Ltd, Gujranwala; imported/distributed by a NZ-registered importer (name not fully legible on label)",
+    "parent_company_location": "Milson, Palmerston North, New Zealand (importer address)",
+    "parent_company_country": "Pakistan (manufacture) / New Zealand (importer)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 149,
@@ -1633,10 +2077,13 @@
     "product_category": "Candy",
     "barcode": "9300617295761",
     "material_type": "Plastic film - PP",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pascall Explorers",
+    "product_variant": null,
+    "parent_company": "Pascall",
+    "parent_company_location": "1 Canterbury Road, Ringwood, Victoria 3134",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 150,
@@ -1644,10 +2091,13 @@
     "product_category": "Beverages",
     "barcode": "9415262645134",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "PRIMO Chocolate Supremo Flavoured Milk",
+    "product_variant": "500mL",
+    "parent_company": "Primo (primo.co.nz)",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 151,
@@ -1655,10 +2105,13 @@
     "product_category": "Beverages",
     "barcode": "884941003661",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "By Well Aloe Vera Drink, Original",
+    "product_variant": "500mL",
+    "parent_company": "Tulip International Inc.",
+    "parent_company_location": "Yecheon-gun, Gyeongsangbuk-do, South Korea",
+    "parent_company_country": "South Korea (imported/distributed by Box World Sdn. Bhd., Sarawak, Malaysia)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 152,
@@ -1666,10 +2119,13 @@
     "product_category": "Beverages",
     "barcode": "9421908709009",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "OUANA Watermelon, Turmeric, Lime & Ginger Juice",
+    "product_variant": "400mL",
+    "parent_company": "Local Tongan brand \u2014 Grown & Smashed in Tonga\"\"",
+    "parent_company_location": "Tonga",
+    "parent_company_country": "Tonga",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 153,
@@ -1677,10 +2133,13 @@
     "product_category": "Beverages",
     "barcode": "9556404001057",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pepsi Cola",
+    "product_variant": null,
+    "parent_company": "PepsiCo",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 154,
@@ -1688,10 +2147,13 @@
     "product_category": "Beverages",
     "barcode": "9310179006767",
     "material_type": "Other",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Golden Circle Golden Pash Fruit Drink",
+    "product_variant": "1L",
+    "parent_company": "Golden Circle",
+    "parent_company_location": "Queensland, Australia",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 155,
@@ -1699,10 +2161,13 @@
     "product_category": "Beverages",
     "barcode": "713757175128",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Hina Vai Bottled Water",
+    "product_variant": "1.5L",
+    "parent_company": "Local Tongan water company",
+    "parent_company_location": "Nuku'alofa, Tonga",
+    "parent_company_country": "Tonga",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 156,
@@ -1710,10 +2175,13 @@
     "product_category": "Beverages",
     "barcode": "9416216056495",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "FruBu Tropical Flavour Fruit Drink",
+    "product_variant": null,
+    "parent_company": "The Coca-Cola Company",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 157,
@@ -1721,10 +2189,13 @@
     "product_category": "Beverages",
     "barcode": "9300675049580",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Keri Juice Co. Pulpy Orange Fruit Drink",
+    "product_variant": "1L",
+    "parent_company": "Coca-Cola New Zealand",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand/USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 158,
@@ -1732,10 +2203,13 @@
     "product_category": "Beverages",
     "barcode": "41755001140",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Langers Fruit Punch",
+    "product_variant": null,
+    "parent_company": "Langers Juice Company",
+    "parent_company_location": "California, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 159,
@@ -1743,10 +2217,13 @@
     "product_category": "Beverages",
     "barcode": "9416216076424",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Schweppes Sparkling Orange Mango Flavour",
+    "product_variant": "600mL",
+    "parent_company": "Schweppes",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 160,
@@ -1754,10 +2231,13 @@
     "product_category": "Candy",
     "barcode": "8990800004563",
     "material_type": "Other",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Mentos Fruit Dragees",
+    "product_variant": "Chewy Candy",
+    "parent_company": "Perfetti Van Melle Benelux B.V.",
+    "parent_company_location": "Netherlands",
+    "parent_company_country": "Netherlands",
+    "manufacturer_location": "Indonesia",
+    "barcode_country": null
   },
   {
     "brand_id": 161,
@@ -1765,10 +2245,13 @@
     "product_category": "Candy",
     "barcode": "8996001330722",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Kopiko Coffee Candy",
+    "product_variant": "Extra Big",
+    "parent_company": "PT Mayora Indah Tbk.",
+    "parent_company_location": "Jakarta 11940, Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 162,
@@ -1776,10 +2259,13 @@
     "product_category": "Candy",
     "barcode": "8993154788608",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Bronson Kopi dan Kacang",
+    "product_variant": "Coffee & Peanut Candy",
+    "parent_company": "PT. Bronson Prima Industri",
+    "parent_company_location": "Malang 65128, Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 163,
@@ -1787,10 +2273,13 @@
     "product_category": "Candy",
     "barcode": "8993154150016",
     "material_type": "Other",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Hot Hot Pop",
+    "product_variant": "Lollipop Candy",
+    "parent_company": "PT. Bronson Prima Industri",
+    "parent_company_location": "Malang 65128, Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 164,
@@ -1798,10 +2287,13 @@
     "product_category": "Candy",
     "barcode": "6291003080401",
     "material_type": "Other",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Tiffany Cream Toffee",
+    "product_variant": null,
+    "parent_company": "IFFCO / International Food Factories",
+    "parent_company_location": "Ras Al Khaimah, UAE",
+    "parent_company_country": "UAE",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 165,
@@ -1809,10 +2301,13 @@
     "product_category": "Candy",
     "barcode": "8997004301108",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Oishi Pillows Chocolate Filled",
+    "product_variant": "Party Size",
+    "parent_company": "Oishi (Liwayway Marketing Corp)",
+    "parent_company_location": "Philippines/Indonesia",
+    "parent_company_country": "Philippines",
+    "manufacturer_location": "Indonesia",
+    "barcode_country": null
   },
   {
     "brand_id": 166,
@@ -1820,10 +2315,13 @@
     "product_category": "Beverages",
     "barcode": "9416216057324",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Coca-Cola Classic",
+    "product_variant": "500ml",
+    "parent_company": "The Coca-Cola Company / Coca-Cola Amatil NZ",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "USA",
+    "manufacturer_location": "NZ",
+    "barcode_country": null
   },
   {
     "brand_id": 167,
@@ -1831,10 +2329,13 @@
     "product_category": "Beverages",
     "barcode": "632565000012",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "FIJI Water",
+    "product_variant": "Natural Artesian Water",
+    "parent_company": "Natural Waters of Viti Ltd. / FIJI Water LLC",
+    "parent_company_location": "Los Angeles, CA, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": "Fiji",
+    "barcode_country": null
   },
   {
     "brand_id": 168,
@@ -1842,10 +2343,13 @@
     "product_category": "Beverages",
     "barcode": "9421903738233",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pure NZ Sparkling Water",
+    "product_variant": "500ml",
+    "parent_company": "Pure NZ / (NZ private label)",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 169,
@@ -1853,10 +2357,13 @@
     "product_category": "Beverages",
     "barcode": "9300675026970",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Kiwi Blue Spring Water",
+    "product_variant": "500ml",
+    "parent_company": "The Coca-Cola Company / Coca-Cola NZ",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "USA",
+    "manufacturer_location": "NZ",
+    "barcode_country": null
   },
   {
     "brand_id": 170,
@@ -1864,10 +2371,13 @@
     "product_category": "Beverages",
     "barcode": "9421902982040",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Vai Melie Pure Rain Water",
+    "product_variant": "500ml",
+    "parent_company": "Vai Melie (Tonga/Pacific brand)",
+    "parent_company_location": "Tonga / New Zealand",
+    "parent_company_country": "Tonga / NZ",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 171,
@@ -1875,10 +2385,13 @@
     "product_category": "Beverages",
     "barcode": "8809041427409",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "OKF Farmer's Aloe Vera Original Lite",
+    "product_variant": "500ml",
+    "parent_company": "OKF Co. Ltd.",
+    "parent_company_location": "Seoul, South Korea",
+    "parent_company_country": "South Korea",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 172,
@@ -1886,10 +2399,13 @@
     "product_category": "Beverages",
     "barcode": "898886113163",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "California Gold Function 100% Prune Juice",
+    "product_variant": "16 fl oz / 473ml",
+    "parent_company": "California Gold Nutrition / Function Drinks",
+    "parent_company_location": "USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 173,
@@ -1897,10 +2413,13 @@
     "product_category": "Beverages",
     "barcode": "9400597021845",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Woolworths Lemon Lime & Bitters",
+    "product_variant": "1.5L",
+    "parent_company": "Woolworths Group / Countdown NZ",
+    "parent_company_location": "Sydney, Australia / Auckland, NZ",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 174,
@@ -1908,10 +2427,13 @@
     "product_category": "Beverages",
     "barcode": "9300675055512",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Keri Juice Co. Pulpy Orange & Mango",
+    "product_variant": "1L",
+    "parent_company": "The Coca-Cola Company / Coca-Cola NZ",
+    "parent_company_location": "Auckland, New Zealand",
+    "parent_company_country": "USA",
+    "manufacturer_location": "NZ",
+    "barcode_country": null
   },
   {
     "brand_id": 175,
@@ -1919,10 +2441,13 @@
     "product_category": "Beverages",
     "barcode": "648436330669",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pororo The Little Penguin Apple Flavour Drink",
+    "product_variant": null,
+    "parent_company": "OKF Co. Ltd. / Pororo brand",
+    "parent_company_location": "Seoul, South Korea",
+    "parent_company_country": "South Korea",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 176,
@@ -1930,10 +2455,13 @@
     "product_category": "Candy",
     "barcode": "42238750012",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "HARIBO Sour Streamers Zing",
+    "product_variant": "Gummi Candy, 3.6 oz",
+    "parent_company": "HARIBO of America, Inc.",
+    "parent_company_location": "Rosemont, IL 60018, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": "Spain",
+    "barcode_country": null
   },
   {
     "brand_id": 177,
@@ -1941,10 +2469,13 @@
     "product_category": "Candy",
     "barcode": "http://mondlz.com/ugtg611",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Sour Patch Kids",
+    "product_variant": "Soft & Chewy Candy, 3.5 oz",
+    "parent_company": "Mondelez Global LLC",
+    "parent_company_location": "East Hanover, NJ 07936, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": "Canada",
+    "barcode_country": null
   },
   {
     "brand_id": 178,
@@ -1952,10 +2483,13 @@
     "product_category": "Candy",
     "barcode": "8993154150016",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Hot Hot Pop",
+    "product_variant": "Lollipop candy, 125g",
+    "parent_company": "PT. Bronson Prima Industri",
+    "parent_company_location": "Malang 65125, Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 179,
@@ -1963,10 +2497,13 @@
     "product_category": "Candy",
     "barcode": "6291003080692",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Tiffany Deluxe Toffee",
+    "product_variant": "Assorted Toffees, 700g",
+    "parent_company": "IFFCO / International Food Factories",
+    "parent_company_location": "Ras Al Khaimah, UAE",
+    "parent_company_country": "UAE",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 180,
@@ -1974,10 +2511,13 @@
     "product_category": "Candy",
     "barcode": "6291003080401",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Tiffany Cream Toffee",
+    "product_variant": "Assorted Toffee with Soft Cream, 700g",
+    "parent_company": "IFFCO / International Food Factories",
+    "parent_company_location": "Ras Al Khaimah, UAE",
+    "parent_company_country": "UAE",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 181,
@@ -1985,10 +2525,13 @@
     "product_category": "Candy",
     "barcode": "6291003090141",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Tiffany Mintz Candy",
+    "product_variant": "Cool & Refreshing, 700g",
+    "parent_company": "Seville Products LLC / UNIPEX Dairy Products Co. Ltd.",
+    "parent_company_location": "UAE",
+    "parent_company_country": "UAE",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 182,
@@ -1996,10 +2539,13 @@
     "product_category": "Candy",
     "barcode": "192568963009",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Stellar Storm Stick",
+    "product_variant": "Cola + Lemon candy, tube",
+    "parent_company": "Sweetband Toy Co.",
+    "parent_company_location": "Orange County, CA, USA",
+    "parent_company_country": "USA",
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 183,
@@ -2007,10 +2553,13 @@
     "product_category": "Candy",
     "barcode": "6942836724849",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Hershey's Kisses Cookies 'n' Creme",
+    "product_variant": null,
+    "parent_company": "Hershey Malaysia Sdn. Bhd. / The Hershey Company",
+    "parent_company_location": "Jalan Kargo 3, Senai Airport City, 81400 Senai, Johor, Malaysia",
+    "parent_company_country": "Malaysia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 184,
@@ -2018,10 +2567,13 @@
     "product_category": "Candy",
     "barcode": "678926100076",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Dulces Gaby Cucharas",
+    "product_variant": "Chili candy spoons, 24 pcs, 240g",
+    "parent_company": "Western Gourmet Foods Commerce / Dulces Gaby",
+    "parent_company_location": "Commerce, CA 90040, USA",
+    "parent_company_country": "USA (Mexican candy)",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 185,
@@ -2029,10 +2581,13 @@
     "product_category": "Candy",
     "barcode": "9401113611656",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Nice Bunny Lollipop Rings",
+    "product_variant": "200g",
+    "parent_company": "Nice\" brand (NZ private label)\"",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 186,
@@ -2040,10 +2595,13 @@
     "product_category": "Beverages",
     "barcode": "884941003708",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "BY WELL Aloe Vera Drink Original",
+    "product_variant": "1.5L",
+    "parent_company": "TSUP International Inc.",
+    "parent_company_location": "Korea",
+    "parent_company_country": "South Korea",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 187,
@@ -2051,10 +2609,13 @@
     "product_category": "Beverages",
     "barcode": "9556404116843",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Mountain Dew Pitch Black",
+    "product_variant": "1.5L",
+    "parent_company": "PepsiCo Malaysia Manufacturing Sdn Bhd (licensed by PepsiCo Inc.)",
+    "parent_company_location": "Bangi, Malaysia",
+    "parent_company_country": "Malaysia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 188,
@@ -2062,10 +2623,13 @@
     "product_category": "Beverages",
     "barcode": "8850389101391",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "MOGU MOGU Grape Flavoured Drink with Nata de Coco",
+    "product_variant": null,
+    "parent_company": "Sappe PCL",
+    "parent_company_location": "Thailand",
+    "parent_company_country": "Thailand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 189,
@@ -2073,10 +2637,13 @@
     "product_category": "Beverages",
     "barcode": "9415262003842",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "PRIMO Banana Blast Flavoured Milk",
+    "product_variant": "500mL",
+    "parent_company": "Fonterra Brands (NZ) Limited",
+    "parent_company_location": "109 Fanshawe Street, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 190,
@@ -2084,10 +2651,13 @@
     "product_category": "Beverages",
     "barcode": "9421902982026",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "VAI MELIE 100% Rain Water",
+    "product_variant": null,
+    "parent_company": "Vai Melie",
+    "parent_company_location": "Samoa",
+    "parent_company_country": "Samoa",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 191,
@@ -2095,10 +2665,13 @@
     "product_category": "Beverages",
     "barcode": "9416216020458",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "POWERADE Isotonic Mountain Blast",
+    "product_variant": "500mL",
+    "parent_company": "Coca-Cola Europacific Partners (Fiji) Pte Limited",
+    "parent_company_location": "Laucala Beach Estate, Suva, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": "Fiji",
+    "barcode_country": null
   },
   {
     "brand_id": 192,
@@ -2106,10 +2679,13 @@
     "product_category": "Beverages",
     "barcode": "9416216056488",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "FruBu Hi-C Orange Fruit Flavoured Drink",
+    "product_variant": "500mL",
+    "parent_company": "Coca-Cola Europacific Partners (Fiji) Pte Limited",
+    "parent_company_location": "Laucala Beach Estate, Suva, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": "Fiji",
+    "barcode_country": null
   },
   {
     "brand_id": 193,
@@ -2117,10 +2693,13 @@
     "product_category": "Beverages",
     "barcode": "9416216057324",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Coca-Cola Classic",
+    "product_variant": "600mL",
+    "parent_company": "Coca-Cola Europacific Partners (Fiji) Pte Limited / Soci\u00e9t\u00e9 LE FROID S.A.",
+    "parent_company_location": "New Caledonia (distributed) / Suva, Fiji (bottled)",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 194,
@@ -2128,10 +2707,13 @@
     "product_category": "Beverages",
     "barcode": "9416216283051",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Sprite Natural Flavour",
+    "product_variant": "1.25L",
+    "parent_company": "Coca-Cola Europacific Partners (Fiji) Limited",
+    "parent_company_location": "Laucala Beach Estate, Suva, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 195,
@@ -2139,10 +2721,13 @@
     "product_category": "Beverages",
     "barcode": "9416216076424",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Schweppes Sparkling Orange Mango Flavour",
+    "product_variant": "600mL",
+    "parent_company": "Coca-Cola Amatil (Fiji) Limited",
+    "parent_company_location": "Suva, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": "Fiji",
+    "barcode_country": null
   },
   {
     "brand_id": 196,
@@ -2150,10 +2735,13 @@
     "product_category": "Candy",
     "barcode": "6999985875830",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "By Well Aloe Vera Drink",
+    "product_variant": "Original",
+    "parent_company": "TSJP International Inc.",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "South Korea",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 197,
@@ -2161,10 +2749,13 @@
     "product_category": "Candy",
     "barcode": "8994449523034",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
+    "brand_name": "Long Bar Fruit Bubble Gum",
+    "product_variant": "Strawberry",
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": null,
+    "barcode_country": "Indonesia"
   },
   {
     "brand_id": 198,
@@ -2172,10 +2763,13 @@
     "product_category": "Candy",
     "barcode": "719886510755",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pel\u00f3n Pelo Rico",
+    "product_variant": null,
+    "parent_company": "The Hershey Company",
+    "parent_company_location": "Hershey, PA",
+    "parent_company_country": "USA",
+    "manufacturer_location": "Mexico",
+    "barcode_country": null
   },
   {
     "brand_id": 199,
@@ -2183,10 +2777,13 @@
     "product_category": "Candy",
     "barcode": "8888380323528",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Buah Merah Peach candy",
+    "product_variant": null,
+    "parent_company": "Sin Hua Hock Kee Trdg (S) Pte Ltd",
+    "parent_company_location": "Singapore",
+    "parent_company_country": "Singapore",
+    "manufacturer_location": "Selangor, Malaysia",
+    "barcode_country": null
   },
   {
     "brand_id": 200,
@@ -2194,10 +2791,13 @@
     "product_category": "Candy",
     "barcode": "9415077379606",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pams Sour Party Mix",
+    "product_variant": null,
+    "parent_company": "Foodstuffs NZ (Pams private label)",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 201,
@@ -2205,10 +2805,13 @@
     "product_category": "Candy",
     "barcode": "8990800004563",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Mentos Fruit",
+    "product_variant": null,
+    "parent_company": "Perfetti Van Melle Indonesia",
+    "parent_company_location": "Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 202,
@@ -2216,10 +2819,13 @@
     "product_category": "Candy",
     "barcode": "9300617042631",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Cadbury Twirl",
+    "product_variant": null,
+    "parent_company": "Cadbury / Mondelez International",
+    "parent_company_location": "Australia",
+    "parent_company_country": "Australia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 203,
@@ -2227,10 +2833,13 @@
     "product_category": "Candy",
     "barcode": "6291003080401",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Tiffany Cream Toffee",
+    "product_variant": null,
+    "parent_company": "Tiffany (IFFCO Group)",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "UAE",
+    "manufacturer_location": null,
+    "barcode_country": "Saudi Arabia"
   },
   {
     "brand_id": 204,
@@ -2238,10 +2847,13 @@
     "product_category": "Candy",
     "barcode": "1202002010417",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Snack Room White Papaya Slice",
+    "product_variant": null,
+    "parent_company": "Snack Room",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 205,
@@ -2249,10 +2861,13 @@
     "product_category": "Candy",
     "barcode": "9556138400201",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Lolly Joy",
+    "product_variant": "Icy/Cola",
+    "parent_company": "Lianda Foodstuff Industries Sdn. Bhd.",
+    "parent_company_location": "Bukit Minyak, Penang, Malaysia",
+    "parent_company_country": "Malaysia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 206,
@@ -2260,10 +2875,13 @@
     "product_category": "Chips",
     "barcode": "8999178654332",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
+    "brand_name": "MaiTos Tortilla Chips",
+    "product_variant": "Corn BBQ",
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": null,
+    "barcode_country": "Indonesia"
   },
   {
     "brand_id": 207,
@@ -2271,10 +2889,13 @@
     "product_category": "Chips",
     "barcode": "8995077606496",
     "material_type": "Plastic film - PP",
-    "brand_name": null,
-    "parent_company": null,
+    "brand_name": "Tos Tos Tortilla Chips",
+    "product_variant": null,
+    "parent_company": "Dimpost Dan Diedarkan Oleh",
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": "Indonesia",
+    "barcode_country": null
   },
   {
     "brand_id": 208,
@@ -2282,10 +2903,13 @@
     "product_category": "Chips",
     "barcode": "706799200088",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
+    "brand_name": "Twisties Chicken",
+    "product_variant": "bilingual EN/FR",
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": "Canada",
+    "barcode_country": null
   },
   {
     "brand_id": 209,
@@ -2293,10 +2917,13 @@
     "product_category": "Chips",
     "barcode": "9400566004992",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Bluebird Originals Chicken",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Ltd (PepsiCo NZ)",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 210,
@@ -2304,10 +2931,13 @@
     "product_category": "Chips",
     "barcode": "9414681200924",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "UFOs Burger Flavoured Snacks",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Ltd (PepsiCo NZ)",
+    "parent_company_location": "New Zealand",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 211,
@@ -2315,10 +2945,13 @@
     "product_category": "Chips",
     "barcode": "51325114880",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Corntos Chilli Cheese",
+    "product_variant": null,
+    "parent_company": "Mamee-Double Decker",
+    "parent_company_location": "Malaysia",
+    "parent_company_country": "Malaysia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 212,
@@ -2326,10 +2959,13 @@
     "product_category": "Chips",
     "barcode": "9338815001044",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Jasons Bongo",
+    "product_variant": "Cheese Flavour",
+    "parent_company": "CJ Patel (Pacific) Pte Limited",
+    "parent_company_location": "Lami, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 213,
@@ -2337,10 +2973,13 @@
     "product_category": "Chips",
     "barcode": "9338815001150",
     "material_type": "Multilayer Plastic Film",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Jasons Peanut Ruffs",
+    "product_variant": null,
+    "parent_company": "CJ Patel (Pacific) Pte Limited",
+    "parent_company_location": "Lami, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 214,
@@ -2348,10 +2987,13 @@
     "product_category": "Chips",
     "barcode": "8994462790154",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Doritos",
+    "product_variant": "Rasa Sambal Salsa",
+    "parent_company": "PepsiCo / Frito-Lay Indonesia",
+    "parent_company_location": "Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 215,
@@ -2359,10 +3001,13 @@
     "product_category": "Chips",
     "barcode": "6936605801640",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
+    "brand_name": "Capuchin Monkey Yogurt Onion Flavour Chips",
+    "product_variant": null,
     "parent_company": null,
     "parent_company_location": null,
-    "parent_company_country": null
+    "parent_company_country": null,
+    "manufacturer_location": "China",
+    "barcode_country": null
   },
   {
     "brand_id": 216,
@@ -2370,10 +3015,13 @@
     "product_category": "Beverages",
     "barcode": "6906905812011",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "South Star Purified Drinking Water",
+    "product_variant": "600ml",
+    "parent_company": "Bottled by Fangaloto",
+    "parent_company_location": "Tonga",
+    "parent_company_country": "Tonga",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 217,
@@ -2381,10 +3029,13 @@
     "product_category": "Beverages",
     "barcode": "9416216008999",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Fanta Pineapple",
+    "product_variant": "1.25L",
+    "parent_company": "Coca-Cola Europacific Partners (Fiji) Pte Limited",
+    "parent_company_location": "Ratu Dovi Road, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 218,
@@ -2392,10 +3043,13 @@
     "product_category": "Beverages",
     "barcode": "9416216283068",
     "material_type": "Hard plastic - PET",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Coca-Cola Classic",
+    "product_variant": "1.25L",
+    "parent_company": "Coca-Cola Europacific Partners (Fiji) Pte Limited",
+    "parent_company_location": "Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 219,
@@ -2403,10 +3057,13 @@
     "product_category": "Chips",
     "barcode": "9415748020646",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Ceres Organics Chickpea Crisps",
+    "product_variant": "Organic Himalayan Salt",
+    "parent_company": "Ceres Organics New Zealand",
+    "parent_company_location": "117 Carbine Road, Mt Wellington, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "Thailand",
+    "barcode_country": null
   },
   {
     "brand_id": 220,
@@ -2414,10 +3071,13 @@
     "product_category": "Chips",
     "barcode": "8999178650259",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Mr. Hottest MaiTos Tortilla Chips Snack",
+    "product_variant": null,
+    "parent_company": "Mr. Hottest",
+    "parent_company_location": "Indonesia",
+    "parent_company_country": "Indonesia",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 221,
@@ -2425,10 +3085,13 @@
     "product_category": "Chips",
     "barcode": "9400566009799",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Sunbites Grain Waves",
+    "product_variant": "Sour Cream & Chives",
+    "parent_company": "Bluebird Foods Limited",
+    "parent_company_location": "Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 222,
@@ -2436,10 +3099,13 @@
     "product_category": "Chips",
     "barcode": "706799200088",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Twisties Chicken",
+    "product_variant": "Poulet",
+    "parent_company": "Goodman Fielder (Fiji)",
+    "parent_company_location": "30 Karsanji Street, Suva, Fiji",
+    "parent_company_country": "Fiji",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 223,
@@ -2447,10 +3113,13 @@
     "product_category": "Chips",
     "barcode": "8801117990404",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Orion Turtle Chips Seaweed",
+    "product_variant": null,
+    "parent_company": "Orion Corporation",
+    "parent_company_location": "South Korea",
+    "parent_company_country": "South Korea",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 224,
@@ -2458,10 +3127,13 @@
     "product_category": "Chips",
     "barcode": "9414882460790",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Eta Ripple Cheese & Onion",
+    "product_variant": null,
+    "parent_company": "Eta Foods",
+    "parent_company_location": "39 Ash Road, Wiri, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 225,
@@ -2469,10 +3141,13 @@
     "product_category": "Chips",
     "barcode": "9400566004985",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Bluebird Originals Sour Cream & Chives",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Limited",
+    "parent_company_location": "134 Wiri Station Road, Manukau, Auckland, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 226,
@@ -2480,10 +3155,13 @@
     "product_category": "Chips",
     "barcode": "9310015256912",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "PopCorners Sour Cream & Chives",
+    "product_variant": "Popped-Corn Snack",
+    "parent_company": "The Smith's Snackfood Company Pty Ltd / Bluebird Foods Ltd",
+    "parent_company_location": "Chatswood NSW, Australia / Manukau, NZ",
+    "parent_company_country": "Cambodia",
+    "manufacturer_location": "Cambodia",
+    "barcode_country": null
   },
   {
     "brand_id": 227,
@@ -2491,10 +3169,13 @@
     "product_category": "Chips",
     "barcode": "9400566010177",
     "material_type": "Plastic film - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Delisio Thai Style Sweet Chilli Relish",
+    "product_variant": null,
+    "parent_company": "Bluebird Foods Limited",
+    "parent_company_location": "124 Wiri Station Road, Manukau, Auckland 2104, NZ",
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": null,
+    "barcode_country": null
   },
   {
     "brand_id": 228,
@@ -2502,9 +3183,12 @@
     "product_category": "Chips",
     "barcode": "8886467100079",
     "material_type": "Hard plastic - unknown",
-    "brand_name": null,
-    "parent_company": null,
-    "parent_company_location": null,
-    "parent_company_country": null
+    "brand_name": "Pringles Original",
+    "product_variant": null,
+    "parent_company": "Kellogg Asia Products Sdn Bhd",
+    "parent_company_location": "Lot 1-5, Jalan Enstek Phase 2A, 71760 Nilai, Malaysia",
+    "parent_company_country": "Malaysia",
+    "manufacturer_location": null,
+    "barcode_country": null
   }
 ]
