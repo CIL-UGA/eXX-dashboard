@@ -9,9 +9,9 @@
     "product_variant": null,
     "parent_company": "Cadbury (Mondelez International)",
     "parent_company_location": null,
-    "parent_company_country": "Malaysia (barcode) / USA (parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Malaysia"
   },
   {
     "brand_id": 2,
@@ -23,9 +23,9 @@
     "product_variant": null,
     "parent_company": "Nestl\u00e9",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode) / Switzerland (parent)",
+    "parent_company_country": "Switzerland",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 3,
@@ -51,9 +51,9 @@
     "product_variant": null,
     "parent_company": "Cadbury (Mondelez International)",
     "parent_company_location": null,
-    "parent_company_country": "China (barcode) / USA (parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "China"
   },
   {
     "brand_id": 5,
@@ -135,9 +135,9 @@
     "product_variant": null,
     "parent_company": "Nestl\u00e9",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode) / Switzerland (parent)",
+    "parent_company_country": "Switzerland",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 11,
@@ -219,9 +219,9 @@
     "product_variant": "Strawberry",
     "parent_company": "PepsiLipton (Unilever/PepsiCo joint venture)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode)",
+    "parent_company_country": null,
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 17,
@@ -471,8 +471,8 @@
     "product_variant": "Glac\u00e9au",
     "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": "Australia (bottled) / USA (parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "USA",
+    "manufacturer_location": "Australia",
     "barcode_country": null
   },
   {
@@ -499,9 +499,9 @@
     "product_variant": "Peach",
     "parent_company": "PepsiLipton (Unilever/PepsiCo joint venture)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode)",
+    "parent_company_country": null,
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 37,
@@ -541,8 +541,8 @@
     "product_variant": null,
     "parent_company": "Perfetti Van Melle",
     "parent_company_location": null,
-    "parent_company_country": "China (made) / Italy-Netherlands (parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "Italy/Netherlands",
+    "manufacturer_location": "China",
     "barcode_country": null
   },
   {
@@ -569,7 +569,7 @@
     "product_variant": "with NZ Manuka Honey",
     "parent_company": "Kettle Chip Company",
     "parent_company_location": null,
-    "parent_company_country": "Australia/New Zealand",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -611,9 +611,9 @@
     "product_variant": null,
     "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode) / USA (parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 45,
@@ -625,9 +625,9 @@
     "product_variant": null,
     "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode) / USA (parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 46,
@@ -681,8 +681,8 @@
     "product_variant": null,
     "parent_company": "Cadbury (Mondelez International)",
     "parent_company_location": "205 Canterbury Road, Ringwood, Victoria 3134, Australia",
-    "parent_company_country": "Australia (made) / USA (parent, Mondelez)",
-    "manufacturer_location": null,
+    "parent_company_country": "USA",
+    "manufacturer_location": "Australia",
     "barcode_country": null
   },
   {
@@ -709,8 +709,8 @@
     "product_variant": "Original",
     "parent_company": "Manufactured in South Africa; distributed by DKSH New Zealand Ltd",
     "parent_company_location": "279 Railway Road, Milson, Palmerston North 4470, New Zealand (distributor)",
-    "parent_company_country": "South Africa (made)",
-    "manufacturer_location": null,
+    "parent_company_country": null,
+    "manufacturer_location": "South Africa",
     "barcode_country": null
   },
   {
@@ -723,8 +723,8 @@
     "product_variant": null,
     "parent_company": "The Coca-Cola Company (Coca-Cola Amatil)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (bottled) / USA (parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "USA",
+    "manufacturer_location": "Australia",
     "barcode_country": null
   },
   {
@@ -737,8 +737,8 @@
     "product_variant": null,
     "parent_company": "The Coca-Cola Company (Coca-Cola Amatil)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (bottled) / USA (parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "USA",
+    "manufacturer_location": "Australia",
     "barcode_country": null
   },
   {
@@ -793,8 +793,8 @@
     "product_variant": "Glac\u00e9au",
     "parent_company": "The Coca-Cola Company",
     "parent_company_location": null,
-    "parent_company_country": "Australia (bottled) / USA (parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "USA",
+    "manufacturer_location": "Australia",
     "barcode_country": null
   },
   {
@@ -821,8 +821,8 @@
     "product_variant": null,
     "parent_company": "Frucor Suntory",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "New Zealand (Suntory, Japan parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "Japan",
     "barcode_country": null
   },
   {
@@ -947,9 +947,9 @@
     "product_variant": null,
     "parent_company": "Distributed by Geneva Distributors Ltd",
     "parent_company_location": "125 Pavilion Drive, Airport Oaks, Auckland, New Zealand",
-    "parent_company_country": "Indonesia (barcode prefix 899), distributed in NZ",
+    "parent_company_country": null,
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Indonesia"
   },
   {
     "brand_id": 69,
@@ -961,9 +961,9 @@
     "product_variant": null,
     "parent_company": "Distributed by Geneva Distributors Ltd",
     "parent_company_location": "125 Pavilion Drive, Airport Oaks, Auckland, New Zealand",
-    "parent_company_country": "Malaysia (barcode prefix 955), distributed in NZ",
+    "parent_company_country": null,
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Malaysia"
   },
   {
     "brand_id": 70,
@@ -1031,7 +1031,7 @@
     "product_variant": null,
     "parent_company": "The Smith's Snackfood Co / Bluebird Foods (PepsiCo)",
     "parent_company_location": "Made in New Zealand",
-    "parent_company_country": "USA (PepsiCo parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1045,7 +1045,7 @@
     "product_variant": null,
     "parent_company": "Bluebird Foods (PepsiCo)",
     "parent_company_location": "New Zealand (100% NZ grown potatoes)",
-    "parent_company_country": "USA (PepsiCo parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1059,7 +1059,7 @@
     "product_variant": "with Andy Cooks",
     "parent_company": "Bluebird Foods (PepsiCo)",
     "parent_company_location": "Made in New Zealand",
-    "parent_company_country": "USA (PepsiCo parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1087,7 +1087,7 @@
     "product_variant": null,
     "parent_company": "Bluebird Foods (PepsiCo)",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "USA (PepsiCo parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1115,7 +1115,7 @@
     "product_variant": null,
     "parent_company": "The Smith's Snackfood Co (PepsiCo)",
     "parent_company_location": "Made in Cambodia",
-    "parent_company_country": "USA (PepsiCo parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1269,9 +1269,9 @@
     "product_variant": "Sour Cream & Chives",
     "parent_company": "PepsiCo (Frito-Lay)",
     "parent_company_location": null,
-    "parent_company_country": "Australia (barcode) / USA (parent)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 92,
@@ -1283,7 +1283,7 @@
     "product_variant": null,
     "parent_company": "Coca-Cola Europacific Partners NZ Ltd",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "USA/NZ",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1367,8 +1367,8 @@
     "product_variant": null,
     "parent_company": "Frucor Suntory",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "New Zealand (Suntory, Japan parent)",
-    "manufacturer_location": null,
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "Japan",
     "barcode_country": null
   },
   {
@@ -1577,7 +1577,7 @@
     "product_variant": null,
     "parent_company": "Coca-Cola Europacific Partners NZ Ltd / The Coca-Cola Company",
     "parent_company_location": "Mt Wellington, Auckland, NZ",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1605,7 +1605,7 @@
     "product_variant": null,
     "parent_company": "Vitaco Health",
     "parent_company_location": "Auckland, NZ / North Ryde, NSW, Australia",
-    "parent_company_country": "New Zealand/Australia",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": "Australia",
     "barcode_country": null
   },
@@ -1619,7 +1619,7 @@
     "product_variant": null,
     "parent_company": "Vitaco Health",
     "parent_company_location": "Auckland, NZ / North Ryde, NSW, Australia",
-    "parent_company_country": "New Zealand/Australia",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1647,7 +1647,7 @@
     "product_variant": null,
     "parent_company": "Coca-Cola New Zealand",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1717,7 +1717,7 @@
     "product_variant": null,
     "parent_company": "Cadbury (Mondelez International)",
     "parent_company_location": "UK-origin brand",
-    "parent_company_country": "UK/USA",
+    "parent_company_country": null,
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1801,7 +1801,7 @@
     "product_variant": null,
     "parent_company": "Mondelez International",
     "parent_company_location": "New Zealand/Australia",
-    "parent_company_country": "New Zealand/Australia",
+    "parent_company_country": null,
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1885,8 +1885,8 @@
     "product_variant": "1L",
     "parent_company": "Suntory Beverage & Food NZ Ltd (under license from Stokely-Van Camp Inc./PepsiCo)",
     "parent_company_location": "6 Plunket Ave, Manukau, Auckland, NZ",
-    "parent_company_country": "New Zealand (parent brand owner: USA)",
-    "manufacturer_location": null,
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "USA",
     "barcode_country": null
   },
   {
@@ -1941,7 +1941,7 @@
     "product_variant": "1L",
     "parent_company": "Coca-Cola New Zealand",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1969,7 +1969,7 @@
     "product_variant": "750ml",
     "parent_company": "Coca-Cola Amatil (NZ) Ltd / The Coca-Cola Company",
     "parent_company_location": "59 Carbine Rd, Mt Wellington, Auckland, NZ",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -1983,7 +1983,7 @@
     "product_variant": "Lemon & Paeroa, 600ml",
     "parent_company": "Coca-Cola Amatil (NZ) Ltd",
     "parent_company_location": "Auckland, New Zealand",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -2039,9 +2039,9 @@
     "product_variant": null,
     "parent_company": "Cadbury / Mondelez International",
     "parent_company_location": "Australia (barcode prefix 930)",
-    "parent_company_country": "Australia/USA (Mondelez HQ)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
-    "barcode_country": null
+    "barcode_country": "Australia"
   },
   {
     "brand_id": 147,
@@ -2067,8 +2067,8 @@
     "product_variant": "Apple",
     "parent_company": "Made in Pakistan by CFI (Pvt) Ltd, Gujranwala; imported/distributed by a NZ-registered importer (name not fully legible on label)",
     "parent_company_location": "Milson, Palmerston North, New Zealand (importer address)",
-    "parent_company_country": "Pakistan (manufacture) / New Zealand (importer)",
-    "manufacturer_location": null,
+    "parent_company_country": "New Zealand",
+    "manufacturer_location": "Pakistan",
     "barcode_country": null
   },
   {
@@ -2109,8 +2109,8 @@
     "product_variant": "500mL",
     "parent_company": "Tulip International Inc.",
     "parent_company_location": "Yecheon-gun, Gyeongsangbuk-do, South Korea",
-    "parent_company_country": "South Korea (imported/distributed by Box World Sdn. Bhd., Sarawak, Malaysia)",
-    "manufacturer_location": null,
+    "parent_company_country": "Malaysia",
+    "manufacturer_location": "South Korea",
     "barcode_country": null
   },
   {
@@ -2179,7 +2179,7 @@
     "product_variant": null,
     "parent_company": "The Coca-Cola Company",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "Fiji",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -2193,7 +2193,7 @@
     "product_variant": "1L",
     "parent_company": "Coca-Cola New Zealand",
     "parent_company_location": "New Zealand",
-    "parent_company_country": "New Zealand/USA",
+    "parent_company_country": "New Zealand",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -2375,7 +2375,7 @@
     "product_variant": "500ml",
     "parent_company": "Vai Melie (Tonga/Pacific brand)",
     "parent_company_location": "Tonga / New Zealand",
-    "parent_company_country": "Tonga / NZ",
+    "parent_company_country": "Tonga",
     "manufacturer_location": null,
     "barcode_country": null
   },
@@ -2571,7 +2571,7 @@
     "product_variant": "Chili candy spoons, 24 pcs, 240g",
     "parent_company": "Western Gourmet Foods Commerce / Dulces Gaby",
     "parent_company_location": "Commerce, CA 90040, USA",
-    "parent_company_country": "USA (Mexican candy)",
+    "parent_company_country": "USA",
     "manufacturer_location": null,
     "barcode_country": null
   },
