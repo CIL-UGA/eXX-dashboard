@@ -102,5 +102,21 @@
     "default_packaging": null,
     "byo_allowed": null,
     "brand_names": null
+  },
+  {
+    "store_id": 26,
+    "bulk_available": "No",
+    "product_types": null,
+    "default_packaging": null,
+    "byo_allowed": null,
+    "brand_names": null
+  },
+  {
+    "store_id": 27,
+    "bulk_available": "Yes",
+    "product_types": "Household products (detergent, soap), Personal care (shampoo, body wash)",
+    "default_packaging": "Hard plastic",
+    "byo_allowed": "No",
+    "brand_names": "EcoStore"
   }
 ]

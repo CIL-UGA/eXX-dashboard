@@ -223,5 +223,50 @@
     "repackaged_products": null,
     "tobacco_sold": null,
     "notes": null
+  },
+  {
+    "store_id": 25,
+    "store_survey123_id": "bba5262e-4b93-49d2-bf66-38bec74cf464",
+    "brand_survey123_id": null,
+    "leg_id": 1,
+    "store_name": "Port Fitzroy store",
+    "store_type": "Convenience store",
+    "latitude": "-36.163861",
+    "longitude": "175.362083",
+    "survey_date": "2026-05-01 23:17:39",
+    "repackaging_flag": "No",
+    "repackaged_products": null,
+    "tobacco_sold": "No",
+    "notes": "Granola bars sold in compostable packaging"
+  },
+  {
+    "store_id": 26,
+    "store_survey123_id": "3f2403eb-4fea-4249-a1bc-8a51ce5d1bed",
+    "brand_survey123_id": null,
+    "leg_id": 1,
+    "store_name": "Russell Supermarket",
+    "store_type": "Grocery store",
+    "latitude": "-35.261912",
+    "longitude": "174.121643",
+    "survey_date": "2026-05-04 23:20:34",
+    "repackaging_flag": null,
+    "repackaged_products": null,
+    "tobacco_sold": null,
+    "notes": null
+  },
+  {
+    "store_id": 27,
+    "store_survey123_id": "28f0b34c-848b-4563-bd8e-cb7b81e0b18c",
+    "brand_survey123_id": null,
+    "leg_id": 1,
+    "store_name": null,
+    "store_type": "Grocery store",
+    "latitude": "-35.262671",
+    "longitude": "174.122865",
+    "survey_date": "2026-05-05 00:24:15",
+    "repackaging_flag": null,
+    "repackaged_products": null,
+    "tobacco_sold": null,
+    "notes": null
   }
 ]
