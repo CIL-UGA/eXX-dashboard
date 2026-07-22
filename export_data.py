@@ -6,8 +6,8 @@ import os
 conn = mysql.connector.connect(
     host="mdt-aws-dev.cthr7xwftrcv.us-east-1.rds.amazonaws.com",
     port=3306,
-    user="CAPRUSer",          # <-- confirm this user has SELECT granted on exx_database (see note below)
-    password="CAP_2026!@",    # <-- update if using a different user/password
+    user="CAPRUSer",
+    password="CAP_2026!@",
     database="eXX_database"
 )
 cursor = conn.cursor(dictionary=True)
@@ -37,6 +37,12 @@ export("bag_survey.json",         "SELECT * FROM bag_survey")
 export("bulk_survey.json",        "SELECT * FROM bulk_survey")
 export("reuse_survey.json",       "SELECT * FROM reuse_survey")
 export("brand_survey.json",       "SELECT * FROM brand_survey")
+
+# ── Ocean / Coastal & Inland: microplastics + FTIR ────────────────────────────
+export("trawl.json",             "SELECT * FROM trawl")
+export("trawl_survey.json",      "SELECT * FROM trawl_survey")
+export("environment_ftir.json",  "SELECT * FROM environment_ftir")
+export("product_ftir.json",      "SELECT * FROM product_ftir")
 
 conn.close()
 print("\nAll done!")

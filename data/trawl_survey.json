@@ -1,0 +1,1150 @@
+[
+  {
+    "trawl_survey_id": 1,
+    "trawl_id": 1,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 2,
+    "trawl_id": 1,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 3,
+    "trawl_id": 1,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 4,
+    "trawl_id": 1,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 5,
+    "trawl_id": 1,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 63
+  },
+  {
+    "trawl_survey_id": 6,
+    "trawl_id": 1,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 31
+  },
+  {
+    "trawl_survey_id": 7,
+    "trawl_id": 1,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 8,
+    "trawl_id": 1,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 9,
+    "trawl_id": 1,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 10,
+    "trawl_id": 1,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 11,
+    "trawl_id": 1,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 12,
+    "trawl_id": 1,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 13,
+    "trawl_id": 1,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 14,
+    "trawl_id": 1,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 15,
+    "trawl_id": 1,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 16,
+    "trawl_id": 2,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 17,
+    "trawl_id": 2,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 18,
+    "trawl_id": 2,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 19,
+    "trawl_id": 2,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 20,
+    "trawl_id": 2,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 50
+  },
+  {
+    "trawl_survey_id": 21,
+    "trawl_id": 2,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 56
+  },
+  {
+    "trawl_survey_id": 22,
+    "trawl_id": 2,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 23,
+    "trawl_id": 2,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 24,
+    "trawl_id": 2,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 25,
+    "trawl_id": 2,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 26,
+    "trawl_id": 2,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 27,
+    "trawl_id": 2,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 28,
+    "trawl_id": 2,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 29,
+    "trawl_id": 2,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 30,
+    "trawl_id": 2,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 31,
+    "trawl_id": 3,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 32,
+    "trawl_id": 3,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 33,
+    "trawl_id": 3,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 34,
+    "trawl_id": 3,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 35,
+    "trawl_id": 3,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 64
+  },
+  {
+    "trawl_survey_id": 36,
+    "trawl_id": 3,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 109
+  },
+  {
+    "trawl_survey_id": 37,
+    "trawl_id": 3,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 38,
+    "trawl_id": 3,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 39,
+    "trawl_id": 3,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 2
+  },
+  {
+    "trawl_survey_id": 40,
+    "trawl_id": 3,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 41,
+    "trawl_id": 3,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 42,
+    "trawl_id": 3,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 4
+  },
+  {
+    "trawl_survey_id": 43,
+    "trawl_id": 3,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 44,
+    "trawl_id": 3,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 45,
+    "trawl_id": 3,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 46,
+    "trawl_id": 4,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 47,
+    "trawl_id": 4,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 48,
+    "trawl_id": 4,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 49,
+    "trawl_id": 4,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 50,
+    "trawl_id": 4,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 31
+  },
+  {
+    "trawl_survey_id": 51,
+    "trawl_id": 4,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 46
+  },
+  {
+    "trawl_survey_id": 52,
+    "trawl_id": 4,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 53,
+    "trawl_id": 4,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 2
+  },
+  {
+    "trawl_survey_id": 54,
+    "trawl_id": 4,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 55,
+    "trawl_id": 4,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 56,
+    "trawl_id": 4,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 57,
+    "trawl_id": 4,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 58,
+    "trawl_id": 4,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 59,
+    "trawl_id": 4,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 60,
+    "trawl_id": 4,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 61,
+    "trawl_id": 5,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 62,
+    "trawl_id": 5,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 63,
+    "trawl_id": 5,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 64,
+    "trawl_id": 5,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 65,
+    "trawl_id": 5,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 7
+  },
+  {
+    "trawl_survey_id": 66,
+    "trawl_id": 5,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 37
+  },
+  {
+    "trawl_survey_id": 67,
+    "trawl_id": 5,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 68,
+    "trawl_id": 5,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 69,
+    "trawl_id": 5,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 10
+  },
+  {
+    "trawl_survey_id": 70,
+    "trawl_id": 5,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 71,
+    "trawl_id": 5,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 72,
+    "trawl_id": 5,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 73,
+    "trawl_id": 5,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 74,
+    "trawl_id": 5,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 75,
+    "trawl_id": 5,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 76,
+    "trawl_id": 6,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 77,
+    "trawl_id": 6,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 78,
+    "trawl_id": 6,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 79,
+    "trawl_id": 6,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 80,
+    "trawl_id": 6,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 81,
+    "trawl_id": 6,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 22
+  },
+  {
+    "trawl_survey_id": 82,
+    "trawl_id": 6,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 83,
+    "trawl_id": 6,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 84,
+    "trawl_id": 6,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 85,
+    "trawl_id": 6,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 86,
+    "trawl_id": 6,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 87,
+    "trawl_id": 6,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 88,
+    "trawl_id": 6,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 89,
+    "trawl_id": 6,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 90,
+    "trawl_id": 6,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 91,
+    "trawl_id": 7,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 92,
+    "trawl_id": 7,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 93,
+    "trawl_id": 7,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 94,
+    "trawl_id": 7,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 95,
+    "trawl_id": 7,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 96,
+    "trawl_id": 7,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 97,
+    "trawl_id": 7,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 98,
+    "trawl_id": 7,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 99,
+    "trawl_id": 7,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 2
+  },
+  {
+    "trawl_survey_id": 100,
+    "trawl_id": 7,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 101,
+    "trawl_id": 7,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 102,
+    "trawl_id": 7,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 103,
+    "trawl_id": 7,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 104,
+    "trawl_id": 7,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 105,
+    "trawl_id": 7,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 106,
+    "trawl_id": 8,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 107,
+    "trawl_id": 8,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 108,
+    "trawl_id": 8,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 109,
+    "trawl_id": 8,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 110,
+    "trawl_id": 8,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 111,
+    "trawl_id": 8,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 112,
+    "trawl_id": 8,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 113,
+    "trawl_id": 8,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 114,
+    "trawl_id": 8,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 115,
+    "trawl_id": 8,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 116,
+    "trawl_id": 8,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 117,
+    "trawl_id": 8,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 118,
+    "trawl_id": 8,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 119,
+    "trawl_id": 8,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 120,
+    "trawl_id": 8,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 121,
+    "trawl_id": 9,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 122,
+    "trawl_id": 9,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 123,
+    "trawl_id": 9,
+    "material_type": "Pellet",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 124,
+    "trawl_id": 9,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 125,
+    "trawl_id": 9,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 126,
+    "trawl_id": 9,
+    "material_type": "Line",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 127,
+    "trawl_id": 9,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 128,
+    "trawl_id": 9,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 129,
+    "trawl_id": 9,
+    "material_type": "Fragment",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 130,
+    "trawl_id": 9,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 131,
+    "trawl_id": 9,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 132,
+    "trawl_id": 9,
+    "material_type": "Film",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 133,
+    "trawl_id": 9,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 134,
+    "trawl_id": 9,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 135,
+    "trawl_id": 9,
+    "material_type": "Foam",
+    "sieve_size": "0.335mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 136,
+    "trawl_id": 11,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 137,
+    "trawl_id": 11,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 138,
+    "trawl_id": 11,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 139,
+    "trawl_id": 11,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 140,
+    "trawl_id": 11,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 141,
+    "trawl_id": 11,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 142,
+    "trawl_id": 11,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 143,
+    "trawl_id": 11,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 144,
+    "trawl_id": 11,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 145,
+    "trawl_id": 11,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 146,
+    "trawl_id": 12,
+    "material_type": "Pellet",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 147,
+    "trawl_id": 12,
+    "material_type": "Pellet",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 148,
+    "trawl_id": 12,
+    "material_type": "Line",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 149,
+    "trawl_id": 12,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 150,
+    "trawl_id": 12,
+    "material_type": "Fragment",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 151,
+    "trawl_id": 12,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 152,
+    "trawl_id": 12,
+    "material_type": "Film",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 153,
+    "trawl_id": 12,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 154,
+    "trawl_id": 12,
+    "material_type": "Foam",
+    "sieve_size": "4.75mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 155,
+    "trawl_id": 12,
+    "material_type": "Foam",
+    "sieve_size": "1mm",
+    "count": 0
+  },
+  {
+    "trawl_survey_id": 156,
+    "trawl_id": 14,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 157,
+    "trawl_id": 15,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 158,
+    "trawl_id": 17,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 159,
+    "trawl_id": 19,
+    "material_type": "Line",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 160,
+    "trawl_id": 19,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 5
+  },
+  {
+    "trawl_survey_id": 161,
+    "trawl_id": 21,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 162,
+    "trawl_id": 21,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 163,
+    "trawl_id": 22,
+    "material_type": "Fragment",
+    "sieve_size": "1mm",
+    "count": 1
+  },
+  {
+    "trawl_survey_id": 164,
+    "trawl_id": 22,
+    "material_type": "Film",
+    "sieve_size": "1mm",
+    "count": 2
+  }
+]
