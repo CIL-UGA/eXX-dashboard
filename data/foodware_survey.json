@@ -415,7 +415,7 @@
     "item_category": "Cold cups",
     "material_type": "Paperboard",
     "has_compost_cert": "Yes",
-    "certification": "{'BPI_Commercially_Compostable', 'Compost_Manufacturing_Alliance'}",
+    "certification": "{'Compost_Manufacturing_Alliance', 'BPI_Commercially_Compostable'}",
     "brand_name": "Biopak",
     "reusable_offered": "Yes"
   },
