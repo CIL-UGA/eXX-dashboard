@@ -1,0 +1,402 @@
+[
+  {
+    "transect_survey_id": 66,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 67,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Present",
+    "slope": "Knees to shoulders",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 68,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 69,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Present",
+    "slope": "Shoulders and above",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 70,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 71,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Mud/silt"
+  },
+  {
+    "transect_survey_id": 72,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Mud/silt"
+  },
+  {
+    "transect_survey_id": 73,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Mud/silt"
+  },
+  {
+    "transect_survey_id": 74,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Mud/silt"
+  },
+  {
+    "transect_survey_id": 75,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Mud/silt"
+  },
+  {
+    "transect_survey_id": 76,
+    "weather": "Sunny",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 77,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 78,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 79,
+    "weather": "Sunny",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 80,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 81,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 82,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 83,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 84,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 85,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 86,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 87,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 88,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 89,
+    "weather": "Partly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 90,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 91,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 92,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 93,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 94,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Shoulders and above",
+    "primary_substrate": "Cobble"
+  },
+  {
+    "transect_survey_id": 95,
+    "weather": "Sunny",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Shoulders and above",
+    "primary_substrate": "Cobble"
+  },
+  {
+    "transect_survey_id": 96,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 97,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 98,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 99,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 100,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Sand"
+  },
+  {
+    "transect_survey_id": 101,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Other (describe in notes)"
+  },
+  {
+    "transect_survey_id": 102,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Other (describe in notes)"
+  },
+  {
+    "transect_survey_id": 103,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Other (describe in notes)"
+  },
+  {
+    "transect_survey_id": 104,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Other (describe in notes)"
+  },
+  {
+    "transect_survey_id": 105,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Other (describe in notes)"
+  },
+  {
+    "transect_survey_id": 106,
+    "weather": null,
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 107,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 108,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 109,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "Yes",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 110,
+    "weather": null,
+    "storm_drain_within_100m": null,
+    "trash_can_state": null,
+    "slope": null,
+    "primary_substrate": null
+  },
+  {
+    "transect_survey_id": 111,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Not Present",
+    "slope": "Knees to shoulders",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 112,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": null,
+    "trash_can_state": "Not Present",
+    "slope": "Knees to shoulders",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 113,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees to shoulders",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 114,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees to shoulders",
+    "primary_substrate": "Pebble/gravel"
+  },
+  {
+    "transect_survey_id": 115,
+    "weather": "Mostly Cloudy",
+    "storm_drain_within_100m": "No",
+    "trash_can_state": "Not Present",
+    "slope": "Knees and below",
+    "primary_substrate": "Pebble/gravel"
+  }
+]

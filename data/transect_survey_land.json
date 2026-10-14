@@ -1,0 +1,587 @@
+[
+  {
+    "transect_survey_id": 1,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 2,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 3,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 4,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "Yes",
+    "influencing_factors": "Near the marina"
+  },
+  {
+    "transect_survey_id": 5,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 6,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": "Road works"
+  },
+  {
+    "transect_survey_id": 7,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 8,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "Yes",
+    "bin_types": "Waste bin",
+    "overflowing_bins": "No",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 9,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 10,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 11,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 12,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "Yes",
+    "bin_types": "Recycling bin",
+    "overflowing_bins": "Waste bin",
+    "storm_drains": "Yes",
+    "influencing_factors": "Hevalier 2"
+  },
+  {
+    "transect_survey_id": 13,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "Yes",
+    "bin_types": "Waste dumpster",
+    "overflowing_bins": "No",
+    "storm_drains": "No",
+    "influencing_factors": "Construction"
+  },
+  {
+    "transect_survey_id": 14,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": "Construction nearby"
+  },
+  {
+    "transect_survey_id": 15,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 16,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": "No",
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 17,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 18,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 19,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 20,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 21,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 22,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 23,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "No",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 24,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 25,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 26,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 27,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 28,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "Yes",
+    "bin_types": "Waste bin",
+    "overflowing_bins": "No",
+    "storm_drains": "No",
+    "influencing_factors": "Residential access road"
+  },
+  {
+    "transect_survey_id": 29,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": "Road rest area next to park"
+  },
+  {
+    "transect_survey_id": 30,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 31,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 32,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 33,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 34,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 35,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 36,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 37,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 38,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 39,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "Yes",
+    "bin_types": "Recycling bin",
+    "overflowing_bins": "Yes",
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 40,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "No",
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 41,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 42,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 43,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 44,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 45,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 46,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 47,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 48,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 49,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 50,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 51,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 52,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 53,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 54,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 55,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 56,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 57,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 58,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "Yes",
+    "bin_types": "Waste bin",
+    "overflowing_bins": "No",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 59,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": null,
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 60,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 61,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 62,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 63,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "Yes",
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 64,
+    "weather_impacts": null,
+    "collection_containers": null,
+    "bin_types": null,
+    "overflowing_bins": null,
+    "storm_drains": null,
+    "influencing_factors": null
+  },
+  {
+    "transect_survey_id": 65,
+    "weather_impacts": "Not applicable",
+    "collection_containers": "No",
+    "bin_types": "Not applicable",
+    "overflowing_bins": "Not applicable",
+    "storm_drains": "No",
+    "influencing_factors": null
+  }
+]

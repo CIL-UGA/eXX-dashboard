@@ -44,5 +44,13 @@ export("trawl_survey.json",      "SELECT * FROM trawl_survey")
 export("environment_ftir.json",  "SELECT * FROM environment_ftir")
 export("product_ftir.json",      "SELECT * FROM product_ftir")
 
+# ── Litter surveys (land + coast) ─────────────────────────────────────────────
+export("litter_site.json",           "SELECT * FROM litter_site")
+export("litter_transect.json",       "SELECT * FROM litter_transect")
+export("transect_survey.json",       "SELECT * FROM transect_survey")
+export("transect_survey_land.json",  "SELECT * FROM transect_survey_land")
+export("transect_survey_coast.json", "SELECT * FROM transect_survey_coast")
+export("litter_survey.json",         "SELECT * FROM litter_survey")
+
 conn.close()
 print("\nAll done!")
